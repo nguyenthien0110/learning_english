@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "name": "HOME",
+      "children": [
+        {
+          "title": "Từ Vựng đang học",
+          "name": "vocabulary.txt"
+        }
+      ]
+    },
+    {
+      "name": "1. Từ vựng tiếng Anh theo chủ đề Nghề nghiệp",
+      "children": [
+        {
+          "title": "1.1 Lĩnh vực Luật và An ninh",
+          "name": "legal_security.txt"
+        },
+        {
+          "title": "1.2 Lĩnh vực Kỹ thuật và Công nghệ thông tin",
+          "name": "tech_it.txt"
+        }
+      ]
+    }
+  ]
+}

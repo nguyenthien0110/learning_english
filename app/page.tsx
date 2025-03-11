@@ -2,7 +2,7 @@
 
 import { Moon, Sun, Volume2 } from "lucide-react";
 import { useEffect, useState } from "react";
-import MenuIcon from "./components/MenuIcon";
+import Sidebar from "./components/Sidebar";
 
 export default function Home() {
   const [vocabList, setVocabList] = useState<
@@ -22,50 +22,62 @@ export default function Home() {
   const [input, setInput] = useState("");
   const [isIncorrect, setIsIncorrect] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
+  const [selectedFile, setSelectedFile] = useState<string | null>(() =>
+    typeof window !== "undefined" ? localStorage.getItem("selectedFile") : null
+  );
+
+  const fetchVocabList = (fileName: string) => {
+    fetch(`./data/${fileName}`)
+      .then((response) => response.text())
+      .then((text) => {
+        const lines = text
+          .split("\n")
+          .map((line) => line.trim())
+          .filter((line) => line.length > 0)
+          .map((line) => {
+            const match = line.match(/^(.*?) \((.*?)\): (.*)$/);
+            return match
+              ? {
+                  word: match[1].trim(),
+                  pronunciation: match[2].trim(),
+                  meaning: match[3].trim(),
+                  correctCount: 0,
+                }
+              : null;
+          })
+          .filter(Boolean) as {
+          word: string;
+          pronunciation: string;
+          meaning: string;
+          correctCount: number;
+        }[];
+
+        if (lines.length > 0) {
+          setVocabList(lines);
+          localStorage.setItem("vocabList", JSON.stringify(lines));
+          selectRandomWord(lines);
+        }
+      });
+  };
 
   useEffect(() => {
     const storedTheme = localStorage.getItem("theme");
     setDarkMode(storedTheme === "dark");
-
-    const storedVocabList = localStorage.getItem("vocabList");
-    if (storedVocabList) {
-      const parsedList = JSON.parse(storedVocabList);
-      setVocabList(parsedList);
-      selectRandomWord(parsedList);
-    } else {
-      fetch("./data/vocabulary.txt")
-        .then((response) => response.text())
-        .then((text) => {
-          const lines = text
-            .split("\n")
-            .map((line) => line.trim())
-            .filter((line) => line.length > 0)
-            .map((line) => {
-              const match = line.match(/^(.*?) \((.*?)\): (.*)$/);
-              return match
-                ? {
-                    word: match[1].trim(),
-                    pronunciation: match[2].trim(),
-                    meaning: match[3].trim(),
-                    correctCount: 0,
-                  }
-                : null;
-            })
-            .filter(Boolean) as {
-            word: string;
-            pronunciation: string;
-            meaning: string;
-            correctCount: number;
-          }[];
-
-          if (lines.length > 0) {
-            setVocabList(lines);
-            localStorage.setItem("vocabList", JSON.stringify(lines));
-            selectRandomWord(lines);
-          }
-        });
+    if (selectedFile) {
+      fetchVocabList(selectedFile);
     }
-  }, []);
+  }, [selectedFile]);
+
+  useEffect(() => {
+    const handleStorageChange = () => {
+      const newSelectedFile = localStorage.getItem("selectedFile");
+      if (newSelectedFile !== selectedFile) {
+        setSelectedFile(newSelectedFile);
+      }
+    };
+    window.addEventListener("storage", handleStorageChange);
+    return () => window.removeEventListener("storage", handleStorageChange);
+  }, [selectedFile]);
 
   useEffect(() => {
     document.documentElement.classList.toggle("dark", darkMode);
@@ -130,10 +142,14 @@ export default function Home() {
         darkMode ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-900"
       }`}
     >
-      <MenuIcon darkMode={darkMode}/>
+      <Sidebar
+        theme={darkMode}
+        selectedFile={selectedFile}
+        setSelectedFile={setSelectedFile}
+      />
       <button
         onClick={() => setDarkMode(!darkMode)}
-        className="absolute top-4 right-4 p-2 rounded-full transition-all duration-300 bg-gray-300 dark:bg-gray-700 hover:scale-110"
+        className="absolute top-4 right-4 p-2 rounded-full transition-all duration-300 bg-gray-300 dark:bg-gray-700 hover:scale-110 hover:cursor-pointer"
       >
         {darkMode ? (
           <Sun className="w-6 h-6 text-yellow-500" />
@@ -148,7 +164,7 @@ export default function Home() {
           </h1>
           <button
             onClick={playAudio}
-            className="p-2 rounded-full bg-blue-500 text-white hover:bg-blue-600 transition-all duration-300"
+            className="p-2 rounded-full bg-blue-500 text-white hover:bg-blue-600 transition-all duration-300 hover:cursor-pointer"
           >
             <Volume2 className="w-6 h-6" />
           </button>
