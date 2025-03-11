@@ -1,6 +1,6 @@
 "use client";
 
-import { Moon, Sun } from "lucide-react";
+import { Moon, Sun, Volume2 } from "lucide-react";
 import { useEffect, useState } from "react";
 
 export default function Home() {
@@ -25,13 +25,14 @@ export default function Home() {
   useEffect(() => {
     const storedTheme = localStorage.getItem("theme");
     setDarkMode(storedTheme === "dark");
+
     const storedVocabList = localStorage.getItem("vocabList");
     if (storedVocabList) {
       const parsedList = JSON.parse(storedVocabList);
       setVocabList(parsedList);
       selectRandomWord(parsedList);
     } else {
-      fetch("./data/vocabulary.txt")
+      fetch("/data/vocabulary.txt")
         .then((response) => response.text())
         .then((text) => {
           const lines = text
@@ -114,6 +115,14 @@ export default function Home() {
     }
   };
 
+  const playAudio = () => {
+    if (vocab) {
+      const utterance = new SpeechSynthesisUtterance(vocab.word);
+      utterance.lang = "en-US";
+      speechSynthesis.speak(utterance);
+    }
+  };
+
   return (
     <div
       className={`flex flex-col items-center justify-center min-h-screen p-4 transition-all duration-300 ${
@@ -122,7 +131,7 @@ export default function Home() {
     >
       <button
         onClick={() => setDarkMode(!darkMode)}
-        className="absolute top-4 right-4 p-2 rounded-full transition-all duration-300 bg-gray-300 dark:bg-gray-700 hover:scale-110 hover:cursor-pointer"
+        className="absolute top-4 right-4 p-2 rounded-full transition-all duration-300 bg-gray-300 dark:bg-gray-700 hover:scale-110"
       >
         {darkMode ? (
           <Sun className="w-6 h-6 text-yellow-500" />
@@ -131,9 +140,17 @@ export default function Home() {
         )}
       </button>
       {vocab ? (
-        <h1 className="text-3xl sm:text-5xl font-bold mb-6 text-center">
-          {vocab.meaning} ({vocab.pronunciation})
-        </h1>
+        <div className="flex items-center gap-3 pb-6">
+          <h1 className="text-3xl sm:text-5xl font-bold text-center">
+            {vocab.meaning} ({vocab.pronunciation})
+          </h1>
+          <button
+            onClick={playAudio}
+            className="p-2 rounded-full bg-blue-500 text-white hover:bg-blue-600 transition-all duration-300"
+          >
+            <Volume2 className="w-6 h-6" />
+          </button>
+        </div>
       ) : (
         <h1 className="text-3xl sm:text-5xl font-bold mb-6 text-center">
           Loading...
