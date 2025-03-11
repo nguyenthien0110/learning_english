@@ -2,6 +2,7 @@
 
 import { Moon, Sun, Volume2 } from "lucide-react";
 import { useEffect, useState } from "react";
+import MenuIcon from "./components/MenuIcon";
 
 export default function Home() {
   const [vocabList, setVocabList] = useState<
@@ -32,7 +33,7 @@ export default function Home() {
       setVocabList(parsedList);
       selectRandomWord(parsedList);
     } else {
-      fetch("/data/vocabulary.txt")
+      fetch("./data/vocabulary.txt")
         .then((response) => response.text())
         .then((text) => {
           const lines = text
@@ -129,6 +130,7 @@ export default function Home() {
         darkMode ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-900"
       }`}
     >
+      <MenuIcon darkMode={darkMode}/>
       <button
         onClick={() => setDarkMode(!darkMode)}
         className="absolute top-4 right-4 p-2 rounded-full transition-all duration-300 bg-gray-300 dark:bg-gray-700 hover:scale-110"
