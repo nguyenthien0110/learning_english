@@ -60,7 +60,7 @@ export default function Sidebar(props: props) {
       </button>
 
       <div
-        className={`fixed top-0 left-0 h-full w-72 shadow-2xl rounded-r-2xl transition-transform duration-300 z-50 ${
+        className={`fixed top-0 left-0 h-full w-80 shadow-2xl rounded-r-2xl transition-transform duration-300 z-50 overflow-y-auto ${
           isOpen ? "translate-x-0" : "-translate-x-full"
         } ${
           props.theme ? "bg-gray-900 text-white" : "bg-white text-black"

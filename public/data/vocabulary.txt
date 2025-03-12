@@ -17,4 +17,24 @@ Disk (dɪsk): Đĩa
 Hardware (ˈhɑːrdweər): Phần cứng
 Memory (ˈmeməri): Bộ nhớ
 Microprocessor (ˌmaɪkrəʊˈprəʊsesər): Bộ vi xử lý
-Software (ˈsɒftweər): Phần mềm  
+Software (ˈsɒftweər): Phần mềm
+fitting room (’fɪtɪŋ ruːm): phòng thử đồ
+shopping list (ˈʃɒpɪŋ lɪst): danh sách mua sắm
+special offer (ˈspeʃl ˈɒfə): ưu đãi đặc biệt
+price (praɪs): giá cả
+queue (kjuː): xếp hàng
+brand (brænd): thương hiệu
+sample (ˈsæmpəl): hàng mẫu
+leaflet (ˈliːflɪt): tờ rơi
+billboard (ˈbɪlbɔːd): biển quảng cáo
+retailer (ˈriːteɪlər): người bán lẻ
+equipment (ɪˈkwɪpmənt): thiết bị
+gadget (ˈɡædʒɪt): đồ phụ tùng nhỏ
+microcomputer (ˈmaɪ.krəʊ.kəmˌpjuː.tər): máy vi tính
+keyboard (ˈkiːbɔːd): bàn phím máy tính
+terminal (ˈtɜːmɪnəl): máy trạm
+computer mouse (kəmˈpjuːtər maʊs): chuột máy tính
+screen (skriːn): màn hình
+universal serial bus (ˌjuːnɪˈvɜːsəl ˈsɪəriəl bʌs): cổng kết nối cáp tiêu chuẩn cho máy tính và thiết bị điện tử
+alphanumeric data (ˌæl.fə.njuːˈmer.ɪk deɪ.tə): dữ liệu chữ số
+available (əˈveɪləbl): dùng được, có hiệu lực

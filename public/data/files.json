@@ -1,7 +1,7 @@
 {
   "menu": [
     {
-      "name": "HOME",
+      "name": "My Vocabulary",
       "children": [
         {
           "title": "Từ Vựng đang học",
@@ -44,6 +44,33 @@
         {
           "title": "2.1. Các từ vựng về quần áo nói chung",
           "name": "2.1_Cac_tu_vung_ve_quan_ao_noi_chung.txt"
+        }
+      ]
+    },
+    {
+      "name": "3. Từ vựng chủ đề quần áo trong tiếng Anh",
+      "children": [
+        {
+          "title": "3.1. Các từ vựng về quần áo nói chung",
+          "name": "3.1_Cac_tu_vung_ve_quan_ao_noi_chung.txt"
+        }
+      ]
+    },
+    {
+      "name": "4. Từ vựng chủ đề quần áo trong tiếng Anh",
+      "children": [
+        {
+          "title": "4.1. Các từ vựng về quần áo nói chung",
+          "name": "4.1_Cac_tu_vung_ve_quan_ao_noi_chung.txt"
+        }
+      ]
+    },
+    {
+      "name": "5. Từ vựng chủ đề quần áo trong tiếng Anh",
+      "children": [
+        {
+          "title": "5.1. Các từ vựng về quần áo nói chung",
+          "name": "5.1_Cac_tu_vung_ve_quan_ao_noi_chung.txt"
         }
       ]
     }
