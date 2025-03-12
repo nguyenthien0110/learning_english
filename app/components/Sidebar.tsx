@@ -37,6 +37,7 @@ export default function Sidebar(props: props) {
   const handleSelectFile = (fileName: string) => {
     props.setSelectedFile(fileName);
     localStorage.setItem("selectedFile", fileName);
+    localStorage.removeItem("vocabList");
     setIsOpen(false);
   };
 

@@ -63,6 +63,21 @@ export default function Home() {
   useEffect(() => {
     const storedTheme = localStorage.getItem("theme");
     setDarkMode(storedTheme === "dark");
+
+    const storedVocabList = localStorage.getItem("vocabList");
+    if (storedVocabList) {
+      try {
+        const parsedList = JSON.parse(storedVocabList);
+        if (Array.isArray(parsedList) && parsedList.length > 0) {
+          setVocabList(parsedList);
+          selectRandomWord(parsedList);
+          return;
+        }
+      } catch (error) {
+        console.error("Error parsing vocabList from localStorage", error);
+      }
+    }
+
     if (selectedFile) {
       fetchVocabList(selectedFile);
     }
