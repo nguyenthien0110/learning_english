@@ -1,6 +1,6 @@
 Programmer (ˈprəʊgræmə): Lập trình viên
 Software developer (ˈsɒftweə dɪˈvɛləpə): Nhân viên phát triển phần mềm
-Web developer (wɛb dɪˈvɛləpə): Nhân viên phát triển mạng
+Web develope (wɛb develope): Nhân viên phát triển mạng
 Database administrator (ˈdeɪtəˌbeɪs ədˈmɪnɪstreɪtə): Nhân viên quản lý dữ liệu
 Web designer (wɛb dɪˈzaɪnə): Nhân viên thiết kế mạng
 Computer software engineer (kəm’pju:tə ˈsɒftweə ,endʤi’niə): Kĩ sư phần mềm máy tính
