@@ -3,6 +3,7 @@
 import { Moon, Sun, Volume2 } from "lucide-react";
 import { useEffect, useState } from "react";
 import Sidebar from "./components/Sidebar";
+import HoverMessage from "./components/HoverMessage";
 
 export default function Home() {
   const [vocabList, setVocabList] = useState<
@@ -174,9 +175,11 @@ export default function Home() {
       </button>
       {vocab ? (
         <div className="flex items-center gap-3 pb-6">
-          <h1 className="text-3xl sm:text-5xl font-bold text-center">
-            {vocab.meaning} ({vocab.pronunciation})
-          </h1>
+          <HoverMessage
+            text={vocab.meaning}
+            hoverText={vocab.pronunciation || "No data"}
+            theme={darkMode}
+          />
           <button
             onClick={playAudio}
             className="p-2 rounded-full bg-blue-500 text-white hover:bg-blue-600 transition-all duration-300 hover:cursor-pointer"
