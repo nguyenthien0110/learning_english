@@ -10,6 +10,15 @@
       ]
     },
     {
+      "name": "All Vocabulary",
+      "children": [
+        {
+          "title": "Go All",
+          "name": "all_vocabulary.txt"
+        }
+      ]
+    },
+    {
       "name": "1. Từ vựng tiếng Anh theo chủ đề Nghề nghiệp",
       "children": [
         {

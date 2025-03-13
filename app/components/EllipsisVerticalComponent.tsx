@@ -15,11 +15,16 @@ function EllipsisVerticalComponent(prop: props) {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div className="absolute top-4 right-4 p-2 rounded-full transition-all duration-300 dark:bg-gray-700 hover:cursor-pointer">
+    <div className="fixed top-4 right-4 p-2 rounded-full transition-all duration-300 dark:bg-gray-700 hover:cursor-pointer">
       <button onClick={() => setIsOpen(!isOpen)}>
-        <EllipsisVertical className="w-6 h-6 text-gray-600 hover:text-black" />
+        <EllipsisVertical
+          className={`w-6 h-6 hover:cursor-pointer ${
+            prop.theme
+              ? "text-gray-300 hover:text-white"
+              : "text-gray-600 hover:text-black"
+          }`}
+        />
       </button>
-
       <AnimatePresence>
         {isOpen && (
           <motion.div
@@ -33,7 +38,11 @@ function EllipsisVerticalComponent(prop: props) {
               theme={prop.theme}
               setDarkMode={prop.setDarkMode}
             />
-            <EyeModeComponent theme={prop.theme} setIsShow={prop.setIsShow} isShow={prop.isShow} />
+            <EyeModeComponent
+              theme={prop.theme}
+              setIsShow={prop.setIsShow}
+              isShow={prop.isShow}
+            />
           </motion.div>
         )}
       </AnimatePresence>
