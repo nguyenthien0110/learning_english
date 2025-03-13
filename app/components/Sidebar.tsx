@@ -52,7 +52,7 @@ export default function Sidebar(props: props) {
 
       <button
         onClick={() => setIsOpen(true)}
-        className={`p-2 m-2 rounded-full shadow-md transition-all duration-300 z-50 relative hover:scale-110 ${
+        className={`p-2 m-2 rounded-full shadow-md transition-all duration-300 z-50 relative hover:scale-110 hover:cursor-pointer ${
           props.theme ? "bg-gray-800 text-white" : "bg-gray-300 text-black"
         }`}
       >

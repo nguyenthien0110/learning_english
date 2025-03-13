@@ -1,9 +1,10 @@
 "use client";
 
-import { Moon, Sun, Volume2 } from "lucide-react";
+import { Volume2 } from "lucide-react";
 import { useEffect, useState } from "react";
 import Sidebar from "./components/Sidebar";
 import HoverMessage from "./components/HoverMessage";
+import EllipsisVerticalComponent from "./components/EllipsisVerticalComponent";
 
 export default function Home() {
   const [vocabList, setVocabList] = useState<
@@ -26,6 +27,7 @@ export default function Home() {
   const [selectedFile, setSelectedFile] = useState<string | null>(() =>
     typeof window !== "undefined" ? localStorage.getItem("selectedFile") : null
   );
+  const [isShow, setIsShow] = useState(false);
 
   const fetchVocabList = (fileName: string) => {
     fetch(`./data/${fileName}`)
@@ -163,23 +165,30 @@ export default function Home() {
         selectedFile={selectedFile}
         setSelectedFile={setSelectedFile}
       />
-      <button
-        onClick={() => setDarkMode(!darkMode)}
-        className="absolute top-4 right-4 p-2 rounded-full transition-all duration-300 bg-gray-300 dark:bg-gray-700 hover:scale-110 hover:cursor-pointer"
-      >
-        {darkMode ? (
-          <Sun className="w-6 h-6 text-yellow-500" />
-        ) : (
-          <Moon className="w-6 h-6 text-gray-900" />
-        )}
-      </button>
+      <EllipsisVerticalComponent
+        theme={darkMode}
+        isShow={isShow}
+        setDarkMode={setDarkMode}
+        setIsShow={setIsShow}
+      />
       {vocab ? (
         <div className="flex items-center gap-3 pb-6">
-          <HoverMessage
-            text={vocab.meaning}
-            hoverText={vocab.pronunciation || "No data"}
-            theme={darkMode}
-          />
+          {isShow ? (
+            <>
+              <h1 className="text-3xl sm:text-5xl font-bold text-center">
+                {vocab.meaning}
+                {`(${vocab.pronunciation || "No data"})`}
+              </h1>
+            </>
+          ) : (
+            <>
+              <HoverMessage
+                text={vocab.meaning}
+                hoverText={vocab.pronunciation || "No data"}
+                theme={darkMode}
+              />
+            </>
+          )}
           <button
             onClick={playAudio}
             className="p-2 rounded-full bg-blue-500 text-white hover:bg-blue-600 transition-all duration-300 hover:cursor-pointer"
