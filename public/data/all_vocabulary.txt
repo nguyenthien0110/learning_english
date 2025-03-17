@@ -38,3 +38,23 @@ screen (skriːn): màn hình
 universal serial bus (ˌjuːnɪˈvɜːsəl ˈsɪəriəl bʌs): cổng kết nối cáp tiêu chuẩn cho máy tính và thiết bị điện tử
 alphanumeric data (ˌæl.fə.njuːˈmer.ɪk deɪ.tə): dữ liệu chữ số
 available (əˈveɪləbl): dùng được, có hiệu lực
+Application (ˌæplɪˈkeɪʃn): Ứng dụng
+Alphabetical catalog (ˌæl.fəˈbet.ɪ.kəl ˈkæt̬.əl.ɔːɡ): Mục lục xếp theo trật tự chữ cái
+Abbreviation (əˌbriːviˈeɪʃn): Sự tóm tắt, rút gọn
+Analysis (əˈnæləsɪs): Phân tích
+Broad classification (brɔːd ˌklæs.ɪ.fɪˈkeɪ.ʃən): Phân loại tổng quát
+Background (ˈbækɡraʊnd): Bối cảnh, bổ trợ
+Cluster controller (ˈklʌs.tər kənˈtrəʊ.lər): Bộ điều khiển trùm
+Chief source of information (tʃiːf sɔːrs əv ˌɪnfərˈmeɪʃn): Nguồn thông tin chính
+Configuration (kənˌfɪɡəˈreɪʃn): Cấu hình
+Common (ˈkɒmən): Thông thường
+Corner shop (’kɔrnər): Cửa hàng buôn bán nhỏ lẻ
+Department store (dɪ’pɑrtmənt stoʊr): Cửa hàng bách hóa
+Discount store (’dɪs,kæʊnt): Cửa hàng bán giảm giá
+Flea market (fli ’mɑrkɪt): Chợ trời
+Franchise (’frænʧaɪz): Cửa hàng miễn thuế
+Mall (mɔl): Trung tâm mua sắm
+Shopping channel (’ʧænəl): Kênh mua sắm
+E-commerce (’kɑmərs): Thương mại điện tử
+Retailer (’ri,teɪlɝr): Người bán lẻ
+Wholesaler (’hoʊl,seɪlɝr): Người bán sỉ
