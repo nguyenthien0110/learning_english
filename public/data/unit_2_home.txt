@@ -1,0 +1,150 @@
+House (haʊs): Ngôi nhà
+Home (həʊm): Tổ ấm
+Room (ruːm): Căn phòng
+Door (dɔː): Cửa ra vào
+Window (ˈwɪndəʊ): Cửa sổ
+Wall (wɔːl): Bức tường
+Floor (flɔː): Sàn nhà
+Ceiling (ˈsiːlɪŋ): Trần nhà
+Roof (ruːf): Mái nhà
+Kitchen (ˈkɪʧɪn): Nhà bếp
+Bathroom (ˈbɑːθruːm): Phòng tắm
+Bedroom (ˈbɛdruːm): Phòng ngủ
+Living room (ˈlɪvɪŋ ruːm): Phòng khách
+Dining room (ˈdaɪnɪŋ ruːm): Phòng ăn
+Garage (ˈgærɑːʒ): Gara để xe
+Attic (ˈætɪk): Gác xép
+Basement (ˈbeɪsmənt): Tầng hầm
+Balcony (ˈbælkəni): Ban công
+Stairs (steəz): Cầu thang
+Hallway (ˈhɔːlweɪ): Hành lang
+Porch (pɔːʧ): Mái hiên
+Yard (jɑːd): Sân
+Garden (ˈgɑːdn): Khu vườn
+Gate (geɪt): Cổng
+Fence (fɛns): Hàng rào
+Chimney (ˈʧɪmni): Ống khói
+Apartment (əˈpɑːtmənt): Căn hộ
+Flat (flæt): Căn hộ (Anh-Anh)
+Villa (ˈvɪlə): Biệt thự
+Furniture (ˈfɜːnɪʧə): Đồ nội thất
+Bed (bɛd): Cái giường
+Chair (ʧeə): Cái ghế
+Table (ˈteɪbl): Cái bàn
+Sofa (ˈsəʊfə): Ghế sô-pha
+Couch (kaʊʧ): Ghế bành dài
+Desk (dɛsk): Bàn làm việc
+Bookshelf (ˈbʊkʃɛlf): Giá sách
+Wardrobe (ˈwɔːdrəʊb): Tủ quần áo
+Closet (ˈklɒzɪt): Tủ âm tường
+Cabinet (ˈkæbɪnɪt): Tủ đựng đồ có ngăn
+Drawer (drɔː): Ngăn kéo
+Stool (stuːl): Ghế đẩu
+Armchair (ˈɑːmˈʧeə): Ghế bành
+Bench (bɛnʧ): Ghế dài
+Cot (kɒt): Cũi trẻ em
+Cradle (ˈkreɪdl): Cái nôi
+Fan (fæn): Cái quạt
+Heater (ˈhiːtə): Lò sưởi, máy sưởi
+Lamp (læmp): Đèn bàn/đèn ngủ
+Light (laɪt): Bóng đèn, ánh sáng
+Fridge (frɪʤ): Tủ lạnh
+Refrigerator (rɪˈfrɪʤəreɪtə): Tủ lạnh (đầy đủ)
+Oven (ˈʌvn): Lò nướng
+Stove (stəʊv): Bếp nấu
+Microwave (ˈmaɪkrəʊweɪv): Lò vi sóng
+Iron (ˈaɪən): Bàn là, bàn ủi
+Television (ˈtɛlɪˌvɪʒən): Tivi
+Radio (ˈreɪdɪəʊ): Đài phát thanh
+Computer (kəmˈpjuːtə): Máy tính
+Laptop (ˈlæpˌtɒp): Máy tính xách tay
+Speaker (ˈspiːkə): Loa
+Telephone (ˈtɛlɪfəʊn): Điện thoại bàn
+Plate (pleɪt): Cái đĩa
+Bowl (bəʊl): Cái bát, tô
+Cup (kʌp): Cái tách
+Glass (glɑːs): Cái ly thủy tinh
+Spoon (spuːn): Cái thìa, muỗng
+Fork (fɔːk): Cái nĩa
+Knife (naɪf): Con dao
+Chopsticks (ˈʧɒpstɪks): Đũa
+Pan (pæn): Cái chảo
+Pot (pɒt): Cái nồi
+Kettle (ˈkɛtl): Ấm đun nước
+Teapot (ˈtiːpɒt): Ấm pha trà
+Mug (mʌg): Cốc có quai
+Pitcher (ˈpɪʧə): Bình đựng nước (có quai)
+Jug (ʤʌg): Cái bình rót nước
+Tray (treɪ): Cái khay
+Blender (ˈblɛndə): Máy xay sinh tố
+Toaster (ˈtəʊstə): Máy nướng bánh mì
+Blanket (ˈblæŋkɪt): Cái chăn
+Pillow (ˈpɪləʊ): Cái gối
+Mattress (ˈmætrɪs): Tấm đệm
+Sheet (ʃiːt): Ga trải giường
+Curtain (ˈkɜːtn): Rèm cửa
+Rug (rʌg): Tấm thảm nhỏ
+Carpet (ˈkɑːpɪt): Thảm trải sàn
+Toilet (ˈtɔɪlɪt): Bồn cầu
+Sink (sɪŋk): Bồn rửa tay, bồn rửa bát
+Bathtub (ˈbɑːθtʌb): Bồn tắm
+Shower (ˈʃaʊə): Vòi hoa sen
+Clock (klɒk): Đồng hồ treo tường
+Picture (ˈpɪkʧə): Bức tranh, bức ảnh
+Painting (ˈpeɪntɪŋ): Bức họa
+Vase (vɑːz): Bình hoa
+Basket (ˈbɑːskɪt): Cái rổ, cái giỏ
+Broom (bruːm): Cái chổi
+Mop (mɒp): Cây lau nhà
+Bucket (ˈbʌkɪt): Cái xô
+Sponge (spʌnʤ): Miếng bọt biển
+Scissors (ˈsɪzəz): Cái kéo
+Hammer (ˈhæmə): Cái búa
+Nail (neɪl): Cái đinh
+Screwdriver (ˈskruːˌdraɪvə): Tua vít
+Wrench (rɛnʧ): Cờ lê
+Plier (ˈplaɪə): Cái kìm
+Drill (drɪl): Máy khoan
+Ladder (ˈlædə): Cái thang
+Rope (rəʊp): Dây thừng
+Wire (waɪə): Dây điện
+Battery (ˈbætəri): Cục pin
+Match (mæʧ): Que diêm
+Lighter (ˈlaɪtə): Bật lửa
+Candle (ˈkændl): Ngọn nến
+Lock (lɒk): Ổ khóa
+Doorknob (ˈdɔːnɒb): Tay nắm cửa
+Bell (bɛl): Chuông cửa
+Switch (swɪʧ): Công tắc
+Plug (plʌg): Phích cắm
+Socket (ˈsɒkɪt): Ổ cắm
+Pipe (paɪp): Đường ống
+Tap (tæp): Vòi nước
+Faucet (ˈfɔːsɪt): Vòi nước (Mỹ)
+Leak (liːk): Sự rò rỉ
+Dust (dʌst): Bụi
+Dirt (dɜːt): Vết bẩn, bụi đất
+Mess (mɛs): Đống lộn xộn
+Trash (træʃ): Rác
+Garbage (ˈgɑːbɪʤ): Rác thải sinh hoạt
+Rubbish (ˈrʌbɪʃ): Rác (Anh)
+Bin (bɪn): Thùng rác
+Ash (æʃ): Tro
+Fire (faɪə): Lửa
+Smoke (sməʊk): Khói
+Heat (hiːt): Hơi nóng
+Cold (kəʊld): Hơi lạnh
+Air (eə): Không khí
+Space (speɪs): Không gian
+Corner (ˈkɔːnə): Góc (phòng)
+Center (ˈsɛntə): Trung tâm, chính giữa
+Edge (ɛʤ): Cạnh, mép
+Side (saɪd): Mặt bên
+Top (tɒp): Đỉnh, phía trên
+Bottom (ˈbɒtəm): Đáy, phía dưới
+Front (frʌnt): Phía trước
+Back (bæk): Phía sau
+Inside (ɪnˈsaɪd): Bên trong
+Outside (ˌaʊtˈsaɪd): Bên ngoài
+Above (əˈbʌv): Bên trên
+Below (bɪˈləʊ): Phía dưới

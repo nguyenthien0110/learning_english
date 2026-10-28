@@ -1,0 +1,150 @@
+Food (fuːd): Thức ăn
+Water (ˈwɔːtə): Nước
+Meal (miːl): Bữa ăn
+Breakfast (ˈbrɛkfəst): Bữa sáng
+Lunch (lʌnʧ): Bữa trưa
+Dinner (ˈdɪnə): Bữa tối
+Snack (snæk): Bữa ăn nhẹ, đồ ăn vặt
+Dessert (dɪˈzɜːt): Món tráng miệng
+Drink (drɪŋk): Đồ uống
+Beverage (ˈbɛvərɪʤ): Đồ uống (trang trọng)
+Ingredient (ɪnˈgriːdjənt): Nguyên liệu
+Recipe (ˈrɛsɪpi): Công thức nấu ăn
+Menu (ˈmɛnjuː): Thực đơn
+Appetizer (ˈæpɪtaɪzə): Món khai vị
+Soup (suːp): Món súp
+Salad (ˈsæləd): Món rau trộn
+Rice (raɪs): Gạo, cơm
+Bread (brɛd): Bánh mì
+Noodle (ˈnuːdl): Mì sợi
+Pasta (ˈpæstə): Mì Ý
+Meat (miːt): Thịt
+Pork (pɔːk): Thịt lợn
+Beef (biːf): Thịt bò
+Chicken (ˈʧɪkɪn): Thịt gà
+Duck (dʌk): Thịt vịt
+Lamb (læm): Thịt cừu
+Fish (fɪʃ): Cá
+Seafood (ˈsiːfuːd): Hải sản
+Shrimp (ʃrɪmp): Tôm
+Crab (kræb): Cua
+Squid (skwɪd): Mực
+Egg (ɛg): Quả trứng
+Sausage (ˈsɒsɪʤ): Xúc xích
+Bacon (ˈbeɪkən): Thịt xông khói
+Ham (hæm): Thịt giăm bông
+Tofu (ˈtəʊfuː): Đậu phụ
+Vegetable (ˈvɛʤtəbl): Rau củ
+Tomato (təˈmɑːtəʊ): Cà chua
+Potato (pəˈteɪtəʊ): Khoai tây
+Onion (ˈʌnjən): Hành tây
+Garlic (ˈgɑːlɪk): Tỏi
+Carrot (ˈkærət): Cà rốt
+Cabbage (ˈkæbɪʤ): Bắp cải
+Lettuce (ˈlɛtɪs): Rau xà lách
+Mushroom (ˈmʌʃrʊm): Nấm
+Cucumber (ˈkjuːkʌmbə): Dưa chuột
+Corn (kɔːn): Ngô
+Bean (biːn): Đậu, đỗ
+Pea (piː): Đậu Hà Lan
+Pepper (ˈpɛpə): Hạt tiêu, ớt chuông
+Pumpkin (ˈpʌmpkɪn): Bí ngô
+Broccoli (ˈbrɒkəli): Súp lơ xanh
+Spinach (ˈspɪnɪʧ): Rau chân vịt
+Eggplant (ˈɛgplɑːnt): Cà tím
+Radish (ˈrædɪʃ): Củ cải
+Ginger (ˈʤɪnʤə): Gừng
+Fruit (fruːt): Trái cây
+Apple (ˈæpl): Quả táo
+Banana (bəˈnɑːnə): Quả chuối
+Orange (ˈɒrɪnʤ): Quả cam
+Lemon (ˈlɛmən): Quả chanh vàng
+Lime (laɪm): Quả chanh xanh
+Grape (greɪp): Quả nho
+Mango (ˈmæŋgəʊ): Quả xoài
+Strawberry (ˈstrɔːbəri): Dâu tây
+Watermelon (ˈwɔːtəˌmɛlən): Dưa hấu
+Melon (ˈmɛlən): Dưa lưới
+Pineapple (ˈpaɪnˌæpl): Quả dứa
+Peach (piːʧ): Quả đào
+Pear (peə): Quả lê
+Cherry (ˈʧɛri): Quả anh đào
+Coconut (ˈkəʊkənʌt): Quả dừa
+Papaya (pəˈpaɪə): Quả đu đủ
+Avocado (ˌævəʊˈkɑːdəʊ): Quả bơ
+Kiwi (ˈkiːwi): Quả kiwi
+Milk (mɪlk): Sữa
+Cheese (ʧiːz): Phô mai
+Butter (ˈbʌtə): Bơ
+Yogurt (ˈjɒgət): Sữa chua
+Cream (kriːm): Kem (sữa)
+Ice cream (aɪs kriːm): Kem (lạnh)
+Cake (keɪk): Bánh ngọt
+Candy (ˈkændi): Kẹo
+Chocolate (ˈʧɒkəlɪt): Sô-cô-la
+Cookie (ˈkʊki): Bánh quy
+Biscuit (ˈbɪskɪt): Bánh quy (Anh)
+Pie (paɪ): Bánh nướng nhân ngọt/mặn
+Tart (tɑːt): Bánh tart
+Jam (ʤæm): Mứt
+Honey (ˈhʌni): Mật ong
+Sugar (ˈʃʊgə): Đường
+Coffee (ˈkɒfi): Cà phê
+Tea (tiː): Trà
+Juice (ʤuːs): Nước ép
+Beer (bɪə): Bia
+Wine (waɪn): Rượu vang
+Alcohol (ˈælkəhɒl): Đồ uống có cồn
+Liquor (ˈlɪkə): Rượu mạnh
+Soda (ˈsəʊdə): Nước ngọt có ga
+Cola (ˈkəʊlə): Nước coca
+Salt (sɔːlt): Muối
+Vinegar (ˈvɪnɪgə): Giấm
+Sauce (sɔːs): Nước xốt
+Spice (spaɪs): Gia vị
+Herb (hɜːb): Thảo mộc, rau thơm
+Sweet (swiːt): Ngọt
+Sour (saʊə): Chua
+Salty (ˈsɔːlti): Mặn
+Bitter (ˈbɪtə): Đắng
+Spicy (ˈspaɪsi): Cay
+Hot (hɒt): Nóng, cay
+Fresh (frɛʃ): Tươi mới
+Raw (rɔː): Sống, chưa nấu
+Ripe (raɪp): Chín (trái cây)
+Rotten (ˈrɒtn): Thối rữa
+Delicious (dɪˈlɪʃəs): Thơm ngon
+Tasty (ˈteɪsti): Ngon miệng
+Yummy (ˈjʌmi): Tuyệt ngon (khẩu ngữ)
+Disgusting (dɪsˈgʌstɪŋ): Kinh tởm
+Boil (bɔɪl): Luộc, đun sôi
+Fry (fraɪ): Rán, chiên
+Bake (beɪk): Nướng (bánh)
+Roast (rəʊst): Quay, nướng (thịt)
+Grill (grɪl): Nướng vỉ
+Steam (stiːm): Hấp
+Chop (ʧɒp): Băm, chặt
+Slice (slaɪs): Thái lát
+Stir (stɜː): Khuấy
+Mix (mɪks): Trộn
+Pour (pɔː): Rót, đổ
+Taste (teɪst): Nếm
+Market (ˈmɑːkɪt): Chợ
+Supermarket (ˈsuːpəˌmɑːkɪt): Siêu thị
+Shop (ʃɒp): Cửa hàng
+Store (stɔː): Cửa hiệu
+Price (praɪs): Giá cả
+Money (ˈmʌni): Tiền
+Cash (kæʃ): Tiền mặt
+Coin (kɔɪn): Tiền xu
+Wallet (ˈwɒlɪt): Ví tiền
+Bag (bæg): Túi xách
+Bill (bɪl): Hóa đơn
+Receipt (rɪˈsiːt): Biên lai
+Customer (ˈkʌstəmə): Khách hàng
+Seller (ˈsɛlə): Người bán
+Buy (baɪ): Mua
+Sell (sɛl): Bán
+Pay (peɪ): Trả tiền
+Cost (kɒst): Trị giá
+Cheap (ʧiːp): Rẻ

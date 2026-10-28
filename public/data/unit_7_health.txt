@@ -1,0 +1,150 @@
+Health (hɛlθ): Sức khỏe
+Body (ˈbɒdi): Cơ thể
+Head (hɛd): Cái đầu
+Face (feɪs): Khuôn mặt
+Eye (aɪ): Mắt
+Ear (ɪə): Tai
+Nose (nəʊz): Mũi
+Mouth (maʊθ): Miệng
+Tooth (tuːθ): Răng (số ít)
+Teeth (tiːθ): Răng (số nhiều)
+Lip (lɪp): Môi
+Tongue (tʌŋ): Lưỡi
+Hair (heə): Tóc
+Neck (nɛk): Cổ
+Shoulder (ˈʃəʊldə): Bờ vai
+Arm (ɑːm): Cánh tay
+Hand (hænd): Bàn tay
+Finger (ˈfɪŋgə): Ngón tay
+Thumb (θʌm): Ngón tay cái
+Chest (ʧɛst): Ngực
+Stomach (ˈstʌmək): Dạ dày, bụng
+Belly (ˈbɛli): Bụng
+Back (bæk): Cái lưng
+Leg (lɛg): Cẳng chân
+Knee (niː): Đầu gối
+Foot (fʊt): Bàn chân (số ít)
+Feet (fiːt): Bàn chân (số nhiều)
+Toe (təʊ): Ngón chân
+Skin (skɪn): Da
+Blood (blʌd): Máu
+Heart (hɑːt): Trái tim
+Brain (breɪn): Não
+Bone (bəʊn): Xương
+Muscle (ˈmʌsl): Cơ bắp
+Lung (lʌŋ): Lá phổi
+Liver (ˈlɪvə): Lá gan
+Kidney (ˈkɪdni): Quả thận
+Vein (veɪn): Tĩnh mạch
+Throat (θrəʊt): Cổ họng
+Chin (ʧɪn): Cằm
+Cheek (ʧiːk): Má
+Eyebrow (ˈaɪbraʊ): Lông mày
+Eyelash (ˈaɪlæʃ): Lông mi
+Forehead (ˈfɒrɪd): Trán
+Wrist (rɪst): Cổ tay
+Ankle (ˈæŋkl): Mắt cá chân
+Heel (hiːl): Gót chân
+Elbow (ˈɛlbəʊ): Khuỷu tay
+Nail (neɪl): Móng tay/chân
+Skeleton (ˈskɛlɪtn): Bộ xương
+Skull (skʌl): Hộp sọ
+Hospital (ˈhɒspɪtl): Bệnh viện
+Clinic (ˈklɪnɪk): Phòng khám
+Pharmacy (ˈfɑːməsi): Hiệu thuốc
+Drugstore (ˈdrʌgstɔː): Cửa hàng thuốc
+Doctor (ˈdɒktə): Bác sĩ
+Nurse (nɜːs): Y tá
+Patient (ˈpeɪʃənt): Bệnh nhân
+Surgeon (ˈsɜːʤən): Bác sĩ phẫu thuật
+Dentist (ˈdɛntɪst): Nha sĩ
+Pharmacist (ˈfɑːməsɪst): Dược sĩ
+Ambulance (ˈæmbjʊləns): Xe cứu thương
+Ward (wɔːd): Phòng bệnh
+Emergency (ɪˈmɜːʤənsi): Tình trạng khẩn cấp
+Surgery (ˈsɜːʤəri): Phẫu thuật
+Operation (ˌɒpəˈreɪʃən): Ca mổ
+Disease (dɪˈziːz): Căn bệnh
+Illness (ˈɪlnɪs): Sự ốm yếu
+Sickness (ˈsɪknɪs): Bệnh tật
+Pain (peɪn): Sự đau đớn
+Ache (eɪk): Cơn đau nhức
+Headache (ˈhɛdeɪk): Đau đầu
+Toothache (ˈtuːθeɪk): Đau răng
+Stomachache (ˈstʌməkeɪk): Đau bụng
+Backache (ˈbækeɪk): Đau lưng
+Fever (ˈfiːvə): Cơn sốt
+Cough (kɒf): Ho
+Cold (kəʊld): Cảm lạnh
+Flu (fluː): Cúm
+Virus (ˈvaɪərəs): Vi-rút
+Bacteria (bækˈtɪərɪə): Vi khuẩn
+Infection (ɪnˈfɛkʃən): Sự nhiễm trùng
+Symptom (ˈsɪmptəm): Triệu chứng
+Allergy (ˈæləʤi): Dị ứng
+Asthma (ˈæsmə): Bệnh hen suyễn
+Cancer (ˈkænsə): Bệnh ung thư
+Diabetes (ˌdaɪəˈbiːtiːz): Bệnh tiểu đường
+Rash (ræʃ): Phát ban
+Scar (skɑː): Vết sẹo
+Wound (wuːnd): Vết thương (hở)
+Injury (ˈɪnʤəri): Chấn thương
+Bruise (bruːz): Vết bầm tím
+Cut (kʌt): Vết cắt
+Bleeding (ˈbliːdɪŋ): Sự chảy máu
+Swelling (ˈswɛlɪŋ): Sự sưng tấy
+Burn (bɜːn): Vết bỏng
+Fracture (ˈfrækʧə): Vết rạn nứt (xương)
+Sprain (spreɪn): Sự bong gân
+Poison (ˈpɔɪzn): Chất độc
+Nausea (ˈnɔːzɪə): Sự buồn nôn
+Vomiting (ˈvɒmɪtɪŋ): Sự nôn mửa
+Diarrhea (ˌdaɪəˈrɪə): Bệnh tiêu chảy
+Constipation (ˌkɒnstɪˈpeɪʃən): Chứng táo bón
+Dizziness (ˈdɪzɪnɪs): Sự chóng mặt
+Fatigue (fəˈtiːg): Sự mệt mỏi rã rời
+Medicine (ˈmɛdsɪn): Thuốc
+Drug (drʌg): Thuốc, ma túy
+Pill (pɪl): Viên thuốc (tròn)
+Tablet (ˈtæblɪt): Viên thuốc (nén)
+Capsule (ˈkæpsjuːl): Viên nang
+Syrup (ˈsɪrəp): Thuốc nước, si-rô
+Prescription (prɪsˈkrɪpʃən): Đơn thuốc
+Dose (dəʊs): Liều lượng
+Injection (ɪnˈʤɛkʃən): Mũi tiêm
+Vaccine (ˈvæksiːn): Vắc-xin
+Bandage (ˈbændɪʤ): Băng gạc
+Plaster (ˈplɑːstə): Băng dán y tế
+Wheelchair (ˈwiːlʧeə): Xe lăn
+Crutch (krʌʧ): Cái nạng
+Cure (kjʊə): Cách chữa trị
+Treatment (ˈtriːtmənt): Sự điều trị
+Therapy (ˈθɛrəpi): Liệu pháp
+Remedy (ˈrɛmɪdi): Phương thuốc
+Checkup (ˈʧɛkʌp): Cuộc kiểm tra sức khỏe
+Healthy (ˈhɛlθi): Khỏe mạnh
+Sick (sɪk): Ốm, bệnh
+Ill (ɪl): Ốm
+Weak (wiːk): Yếu đuối
+Strong (strɒŋ): Khỏe mạnh, mạnh mẽ
+Fit (fɪt): Sung sức, cân đối
+Blind (blaɪnd): Mù, khiếm thị
+Deaf (dɛf): Điếc, khiếm thính
+Dumb (dʌm): Câm
+Alive (əˈlaɪv): Còn sống
+Dead (dɛd): Đã chết
+Breathe (briːð): Hít thở
+Swallow (ˈswɒləʊ): Nuốt
+Chew (ʧuː): Nhai
+Digest (dɪˈʤɛst): Tiêu hóa
+Heal (hiːl): Lành bệnh
+Recover (rɪˈkʌvə): Hồi phục
+Suffer (ˈsʌfə): Chịu đựng
+Hurt (hɜːt): Làm đau, bị đau
+Bleed (bliːd): Chảy máu
+Sweat (swɛt): Đổ mồ hôi
+Shiver (ˈʃɪvə): Run rẩy
+Sneeze (sniːz): Hắt hơi
+Yawn (jɔːn): Ngáp
+Faint (feɪnt): Ngất xỉu
+Exercise (ˈɛksəsaɪz): Tập thể dục

@@ -19,15 +19,57 @@
       ]
     },
     {
-      "name": "1. Bản từ vựng cơ bản",
+      "name": "1. Đời Sống & Sinh Hoạt",
       "children": [
         {
-          "title": "1.1 Unit 1",
-          "name": "unit_1.txt"
+          "title": "1.1 Gia đình & Cá nhân",
+          "name": "unit_1_family.txt"
         },
         {
-          "title": "1.2 Unit 2",
-          "name": "unit_2.txt"
+          "title": "1.2 Nhà cửa & Đồ dùng",
+          "name": "unit_2_home.txt"
+        },
+        {
+          "title": "1.3 Ẩm thực & Mua sắm",
+          "name": "unit_3_food.txt"
+        }
+      ]
+    },
+    {
+      "name": "2. Xã Hội & Công Việc",
+      "children": [
+        {
+          "title": "2.1 Công sở & Nhà máy",
+          "name": "unit_4_work.txt"
+        },
+        {
+          "title": "2.2 Giáo dục & Học tập",
+          "name": "unit_5_education.txt"
+        },
+        {
+          "title": "2.3 Giao thông & Đi lại",
+          "name": "unit_6_transport.txt"
+        },
+        {
+          "title": "2.4 Sức khỏe & Y tế",
+          "name": "unit_7_health.txt"
+        }
+      ]
+    },
+    {
+      "name": "3. Hành Động & Biểu Đạt",
+      "children": [
+        {
+          "title": "3.1 Động từ thường nhật",
+          "name": "unit_8_actions.txt"
+        },
+        {
+          "title": "3.2 Cảm xúc & Tính cách",
+          "name": "unit_9_emotions.txt"
+        },
+        {
+          "title": "3.3 Tự nhiên & Môi trường",
+          "name": "unit_10_nature.txt"
         }
       ]
     }

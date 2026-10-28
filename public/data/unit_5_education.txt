@@ -1,0 +1,150 @@
+Student (ˈstjuːdənt): Học sinh, sinh viên
+Pupil (ˈpjuːpl): Học sinh (nhỏ tuổi)
+Teacher (ˈtiːʧə): Giáo viên
+Lecturer (ˈlɛkʧərə): Giảng viên
+Professor (prəˈfɛsə): Giáo sư
+Principal (ˈprɪnsəpəl): Hiệu trưởng
+Tutor (ˈtjuːtə): Gia sư
+Coach (kəʊʧ): Huấn luyện viên
+Classmate (ˈklɑːsmeɪt): Bạn cùng lớp
+School (skuːl): Trường học
+Kindergarten (ˈkɪndəˌgɑːtn): Trường mẫu giáo
+College (ˈkɒlɪʤ): Trường cao đẳng
+University (ˌjuːnɪˈvɜːsɪti): Trường đại học
+Academy (əˈkædəmi): Học viện
+Institute (ˈɪnstɪtjuːt): Viện nghiên cứu
+Class (klɑːs): Lớp học
+Classroom (ˈklɑːsrʊm): Phòng học
+Grade (greɪd): Lớp, khối lớp, điểm số
+Course (kɔːs): Khóa học
+Lesson (ˈlɛsn): Bài học
+Term (tɜːm): Học kỳ (Anh)
+Semester (sɪˈmɛstə): Học kỳ (Mỹ)
+Break (breɪk): Giờ giải lao
+Subject (ˈsʌbʤɪkt): Môn học
+Math (mæθ): Toán học
+Algebra (ˈælʤɪbrə): Đại số
+Geometry (ʤɪˈɒmɪtri): Hình học
+Science (ˈsaɪəns): Khoa học
+Physics (ˈfɪzɪks): Vật lý
+Chemistry (ˈkɛmɪstri): Hóa học
+Biology (baɪˈɒləʤi): Sinh học
+History (ˈhɪstəri): Lịch sử
+Geography (ʤɪˈɒgrəfi): Địa lý
+Literature (ˈlɪtərɪʧə): Văn học
+Art (ɑːt): Nghệ thuật, Mỹ thuật
+Music (ˈmjuːzɪk): Âm nhạc
+Language (ˈlæŋgwɪʤ): Ngôn ngữ
+Grammar (ˈgræmə): Ngữ pháp
+Vocabulary (vəʊˈkæbjʊləri): Từ vựng
+Spelling (ˈspɛlɪŋ): Đánh vần
+Pronunciation (prəˌnʌnsɪˈeɪʃən): Phát âm
+Exam (ɪgˈzæm): Bài kiểm tra, kỳ thi
+Test (tɛst): Bài thi ngắn
+Quiz (kwɪz): Câu đố, bài kiểm tra nhanh
+Assignment (əˈsaɪnmənt): Bài tập được giao
+Homework (ˈhəʊmˌwɜːk): Bài tập về nhà
+Project (ˈprɒʤɛkt): Dự án học tập
+Essay (ˈɛseɪ): Bài tiểu luận
+Report (rɪˈpɔːt): Bài báo cáo
+Presentation (ˌprɛzɛnˈteɪʃən): Bài thuyết trình
+Score (skɔː): Điểm số
+Mark (mɑːk): Điểm (Anh)
+Result (rɪˈzʌlt): Kết quả
+Certificate (səˈtɪfɪkɪt): Chứng chỉ
+Diploma (dɪˈpləʊmə): Bằng cấp (thường là cao đẳng)
+Degree (dɪˈgriː): Bằng đại học
+Scholarship (ˈskɒləʃɪp): Học bổng
+Library (ˈlaɪbrəri): Thư viện
+Laboratory (ləˈbɒrətəri): Phòng thí nghiệm
+Campus (ˈkæmpəs): Khuôn viên trường
+Canteen (kænˈtiːn): Căng tin trường học
+Dormitory (ˈdɔːmɪtri): Ký túc xá
+Uniform (ˈjuːnɪfɔːm): Đồng phục
+Book (bʊk): Quyển sách
+Textbook (ˈtɛkstbʊk): Sách giáo khoa
+Notebook (ˈnəʊtbʊk): Vở ghi
+Dictionary (ˈdɪkʃənəri): Từ điển
+Pen (pɛn): Cái bút
+Pencil (ˈpɛnsl): Bút chì
+Eraser (ɪˈreɪzə): Cục tẩy
+Ruler (ˈruːlə): Thước kẻ
+Marker (ˈmɑːkə): Bút lông
+Chalk (ʧɔːk): Phấn
+Board (bɔːd): Bảng
+Whiteboard (ˈwaɪtbɔːd): Bảng trắng
+Blackboard (ˈblækbɔːd): Bảng đen
+Desk (dɛsk): Bàn học
+Chair (ʧeə): Ghế
+Backpack (ˈbækˌpæk): Balo
+Bag (bæg): Cặp sách
+Calculator (ˈkælkjʊleɪtə): Máy tính cầm tay
+Computer (kəmˈpjuːtə): Máy tính
+Laptop (ˈlæpˌtɒp): Máy tính xách tay
+Screen (skriːn): Màn hình
+Internet (ˈɪntəˌnɛt): Mạng internet
+Website (ˈwɛbˌsaɪt): Trang web
+Document (ˈdɒkjʊmənt): Tài liệu
+Page (peɪʤ): Trang giấy
+Chapter (ˈʧæptə): Chương (sách)
+Paragraph (ˈpærəgrɑːf): Đoạn văn
+Sentence (ˈsɛntəns): Câu
+Word (wɜːd): Từ
+Letter (ˈlɛtə): Chữ cái
+Number (ˈnʌmbə): Con số
+Rule (ruːl): Quy tắc
+Theory (ˈθɪəri): Lý thuyết
+Practice (ˈpræktɪs): Thực hành
+Knowledge (ˈnɒlɪʤ): Kiến thức
+Skill (skɪl): Kỹ năng
+Ability (əˈbɪlɪti): Khả năng
+Talent (ˈtælənt): Tài năng
+Memory (ˈmɛməri): Trí nhớ
+Mind (maɪnd): Tâm trí
+Idea (aɪˈdɪə): Ý tưởng
+Thought (θɔːt): Suy nghĩ
+Question (ˈkwɛsʧən): Câu hỏi
+Answer (ˈɑːnsə): Câu trả lời
+Problem (ˈprɒbləm): Bài toán, vấn đề
+Solution (səˈluːʃən): Giải pháp
+Mistake (mɪsˈteɪk): Lỗi sai
+Example (ɪgˈzɑːmpl): Ví dụ
+Detail (ˈdiːteɪl): Chi tiết
+Summary (ˈsʌməri): Bản tóm tắt
+Review (rɪˈvjuː): Ôn tập
+Note (nəʊt): Ghi chú
+Study (ˈstʌdi): Học tập (nghiên cứu)
+Learn (lɜːn): Học hỏi (kỹ năng mới)
+Read (riːd): Đọc
+Write (raɪt): Viết
+Listen (ˈlɪsn): Nghe
+Speak (spiːk): Nói
+Discuss (dɪsˈkʌs): Thảo luận
+Explain (ɪksˈpleɪn): Giải thích
+Understand (ˌʌndəˈstænd): Hiểu
+Know (nəʊ): Biết
+Think (θɪŋk): Nghĩ
+Remember (rɪˈmɛmbə): Nhớ
+Forget (fəˈgɛt): Quên
+Guess (gɛs): Đoán
+Solve (sɒlv): Giải quyết
+Check (ʧɛk): Kiểm tra
+Correct (kəˈrɛkt): Chữa lỗi, làm đúng
+Fail (feɪl): Trượt, rớt
+Pass (pɑːs): Đậu, qua môn
+Graduate (ˈgrædjʊɪt): Tốt nghiệp
+Attend (əˈtɛnd): Tham dự
+Absent (ˈæbsənt): Vắng mặt
+Present (ˈprɛznt): Có mặt
+Smart (smɑːt): Thông minh
+Clever (ˈklɛvə): Khôn khéo
+Intelligent (ɪnˈtɛlɪʤənt): Thông minh, trí tuệ
+Diligent (ˈdɪlɪʤənt): Siêng năng
+Lazy (ˈleɪzi): Lười biếng
+Hardworking (ˈhɑːdˌwɜːkɪŋ): Chăm chỉ
+Curious (ˈkjʊərɪəs): Tò mò
+Easy (ˈiːzi): Dễ dàng
+Difficult (ˈdɪfɪkəlt): Khó khăn
+Hard (hɑːd): Khó, cứng
+Important (ɪmˈpɔːtənt): Quan trọng
+Basic (ˈbeɪsɪk): Cơ bản

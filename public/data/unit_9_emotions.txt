@@ -1,0 +1,150 @@
+Happy (ˈhæpi): Hạnh phúc, vui vẻ
+Sad (sæd): Buồn bã
+Angry (ˈæŋgri): Tức giận
+Tired (ˈtaɪəd): Mệt mỏi
+Bored (bɔːd): Buồn chán
+Excited (ɪkˈsaɪtɪd): Hào hứng, phấn khích
+Scared (skeəd): Sợ hãi
+Surprised (səˈpraɪzd): Ngạc nhiên
+Confused (kənˈfjuːzd): Bối rối
+Relaxed (rɪˈlækst): Thư giãn
+Proud (praʊd): Tự hào
+Nervous (ˈnɜːvəs): Lo lắng, bồn chồn
+Lonely (ˈləʊnli): Cô đơn
+Jealous (ˈʤɛləs): Ghen tị
+Hopeful (ˈhəʊpfʊl): Tràn đầy hy vọng
+Shy (ʃaɪ): Nhút nhát, xấu hổ
+Guilty (ˈgɪlti): Cảm thấy có tội
+Shocked (ʃɒkt): Bị sốc
+Calm (kɑːm): Bình tĩnh
+Brave (breɪv): Dũng cảm
+Kind (kaɪnd): Tử tế
+Cruel (krʊəl): Độc ác
+Honest (ˈɒnɪst): Trung thực
+Polite (pəˈlaɪt): Lịch sự
+Rude (ruːd): Thô lỗ
+Lazy (ˈleɪzi): Lười biếng
+Active (ˈæktɪv): Năng động
+Smart (smɑːt): Thông minh
+Stupid (ˈstjuːpɪd): Ngốc nghếch
+Funny (ˈfʌni): Hài hước
+Serious (ˈsɪərɪəs): Nghiêm túc
+Friendly (ˈfrɛndli): Thân thiện
+Quiet (ˈkwaɪət): Trầm tính, yên lặng
+Loud (laʊd): Ồn ào, to tiếng
+Careful (ˈkeəfʊl): Cẩn thận
+Careless (ˈkeəlɪs): Bất cẩn
+Generous (ˈʤɛnərəs): Hào phóng
+Selfish (ˈsɛlfɪʃ): Ích kỷ
+Patient (ˈpeɪʃənt): Kiên nhẫn
+Crazy (ˈkreɪzi): Điên rồ
+Love (lʌv): Yêu, tình yêu
+Hate (heɪt): Ghét, sự căm ghét
+Like (laɪk): Thích
+Dislike (dɪsˈlaɪk): Không thích
+Joyful (ˈʤɔɪfʊl): Vui sướng
+Cheerful (ˈʧɪəfʊl): Vui tươi, phấn khởi
+Delighted (dɪˈlaɪtɪd): Rất hài lòng, vui vẻ
+Thrilled (θrɪld): Cực kỳ hào hứng
+Satisfied (ˈsætɪsfaɪd): Thỏa mãn, hài lòng
+Grateful (ˈgreɪtfʊl): Biết ơn
+Optimistic (ˌɒptɪˈmɪstɪk): Lạc quan
+Pessimistic (ˌpɛsɪˈmɪstɪk): Bi quan
+Miserable (ˈmɪzərəbl): Khốn khổ
+Depressed (dɪˈprɛst): Trầm cảm, tuyệt vọng
+Upset (ʌpˈsɛt): Buồn bực, thất vọng
+Disappointed (ˌdɪsəˈpɔɪntɪd): Thất vọng
+Frustrated (frʌsˈtreɪtɪd): Bực bội, nản lòng
+Annoyed (əˈnɔɪd): Bực mình, khó chịu
+Irritated (ˈɪrɪteɪtɪd): Tức tối, cáu kỉnh
+Furious (ˈfjʊərɪəs): Giận dữ, điên tiết
+Aggressive (əˈgrɛsɪv): Hung hăng
+Hostile (ˈhɒstaɪl): Thù địch
+Anxious (ˈæŋkʃəs): Lo âu, băn khoăn
+Worried (ˈwʌrɪd): Lo lắng
+Frightened (ˈfraɪtnd): Hoảng sợ
+Terrified (ˈtɛrɪfaɪd): Kinh hãi
+Panicked (ˈpænɪkt): Hoảng loạn
+Ashamed (əˈʃeɪmd): Xấu hổ (về lương tâm)
+Embarrassed (ɪmˈbærəst): Ngại ngùng, bối rối
+Humiliated (hju(ː)ˈmɪlɪeɪtɪd): Bị bẽ mặt, nhục nhã
+Awkward (ˈɔːkwəd): Lúng túng, gượng gạo
+Confident (ˈkɒnfɪdənt): Tự tin
+Arrogant (ˈærəgənt): Kiêu ngạo
+Vain (veɪn): Hão huyền, tự phụ
+Modest (ˈmɒdɪst): Khiêm tốn
+Humble (ˈhʌmbl): Nhún nhường
+Bold (bəʊld): Táo bạo
+Timid (ˈtɪmɪd): Rụt rè
+Cautious (ˈkɔːʃəs): Thận trọng
+Reckless (ˈrɛklɪs): Liều lĩnh
+Stubborn (ˈstʌbən): Bướng bỉnh
+Flexible (ˈflɛksəbl): Linh hoạt
+Loyal (ˈlɔɪəl): Trung thành
+Faithful (ˈfeɪθfʊl): Chung thủy
+Sincere (sɪnˈsɪə): Chân thành
+Fake (feɪk): Giả tạo
+Hypocritical (ˌhɪpəˈkrɪtɪkəl): Đạo đức giả
+Sensible (ˈsɛnsəbl): Khôn ngoan, hợp lý
+Sensitive (ˈsɛnsɪtɪv): Nhạy cảm
+Emotional (ɪˈməʊʃənl): Dễ xúc động
+Rational (ˈræʃənl): Có lý trí
+Logical (ˈlɒʤɪkəl): Hợp logic
+Creative (kri(ː)ˈeɪtɪv): Sáng tạo
+Imaginative (ɪˈmæʤɪnətɪv): Giàu trí tưởng tượng
+Dull (dʌl): Tẻ nhạt
+Boring (ˈbɔːrɪŋ): Nhàm chán
+Interesting (ˈɪntrɪstɪŋ): Thú vị
+Fascinating (ˈfæsɪneɪtɪŋ): Hấp dẫn, lôi cuốn
+Charming (ˈʧɑːmɪŋ): Quyến rũ, duyên dáng
+Attractive (əˈtræktɪv): Thu hút, lôi cuốn
+Ugly (ˈʌgli): Xấu xí
+Handsome (ˈhænsəm): Đẹp trai
+Beautiful (ˈbjuːtəfʊl): Xinh đẹp
+Cute (kjuːt): Dễ thương
+Gorgeous (ˈgɔːʤəs): Lộng lẫy, tuyệt đẹp
+Terrible (ˈtɛrəbl): Tồi tệ, khủng khiếp
+Horrible (ˈhɒrəbl): Đáng sợ, kinh khủng
+Wonderful (ˈwʌndəfʊl): Tuyệt vời
+Amazing (əˈmeɪzɪŋ): Kinh ngạc, tuyệt diệu
+Awesome (ˈɔːsəm): Tuyệt đỉnh
+Fantastic (fænˈtæstɪk): Vô cùng tuyệt vời
+Excellent (ˈɛksələnt): Xuất sắc
+Perfect (ˈpɜːfɪkt): Hoàn hảo
+Good (gʊd): Tốt
+Bad (bæd): Xấu, tồi
+Evil (ˈiːvl): Xấu xa, ác độc
+Wicked (ˈwɪkɪd): Độc ác
+Innocent (ˈɪnəsənt): Vô tội, ngây thơ
+Responsible (rɪsˈpɒnsəbl): Có trách nhiệm
+Irresponsible (ˌɪrɪsˈpɒnsəbl): Vô trách nhiệm
+Reliable (rɪˈlaɪəbl): Đáng tin cậy
+Trustworthy (ˈtrʌstˌwɜːði): Đáng tin
+Strict (strɪkt): Nghiêm khắc
+Lenient (ˈliːniənt): Khoan dung, dễ dãi
+Tolerant (ˈtɒlərənt): Khoan dung, vị tha
+Intolerant (ɪnˈtɒlərənt): Cố chấp, hẹp hòi
+Gentle (ˈʤɛntl): Dịu dàng, nhẹ nhàng
+Rough (rʌf): Thô bạo, cục cằn
+Tough (tʌf): Cứng rắn, khó khăn
+Energetic (ˌɛnəˈʤɛtɪk): Tràn đầy năng lượng
+Exhausted (ɪgˈzɔːstɪd): Kiệt sức
+Sleepy (ˈsliːpi): Buồn ngủ
+Awake (əˈweɪk): Tỉnh táo, thức giấc
+Alert (əˈlɜːt): Cảnh giác, lanh lợi
+Focused (ˈfəʊkəst): Tập trung
+Distracted (dɪsˈtræktɪd): Xao nhãng
+Curious (ˈkjʊərɪəs): Tò mò
+Inquisitive (ɪnˈkwɪzɪtɪv): Hay tọc mạch, dò hỏi
+Indifferent (ɪnˈdɪfrənt): Thờ ơ, lãnh đạm
+Apathetic (ˌæpəˈθɛtɪk): Lãnh đạm, vô cảm
+Sympathetic (ˌsɪmpəˈθɛtɪk): Đồng cảm
+Empathetic (ˌɛmpəˈθɛtɪk): Thấu cảm
+Compassionate (kəmˈpæʃənɪt): Giàu lòng thương xót
+Passionate (ˈpæʃənɪt): Đam mê, nhiệt huyết
+Ambitious (æmˈbɪʃəs): Có tham vọng
+Easygoing (ˈiːzɪˌgəʊɪŋ): Dễ tính
+Outgoing (aʊtˈgəʊɪŋ): Cởi mở, hướng ngoại
+Introverted (ˈɪntrəʊvɜːtɪd): Hướng nội
+Greedy (ˈgriːdi): Tham lam
+Stingy (ˈstɪnʤi): Keo kiệt

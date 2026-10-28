@@ -1,0 +1,153 @@
+Nature (ˈneɪʧə): Thiên nhiên
+Environment (ɪnˈvaɪərənmənt): Môi trường
+Earth (ɜːθ): Trái đất
+World (wɜːld): Thế giới
+Sun (sʌn): Mặt trời
+Moon (muːn): Mặt trăng
+Star (stɑː): Ngôi sao
+Sky (skaɪ): Bầu trời
+Space (speɪs): Không gian, vũ trụ
+Planet (ˈplænɪt): Hành tinh
+Cloud (klaʊd): Đám mây
+Rain (reɪn): Cơn mưa
+Wind (wɪnd): Gió
+Snow (snəʊ): Tuyết
+Storm (stɔːm): Cơn bão
+Thunder (ˈθʌndə): Sấm
+Lightning (ˈlaɪtnɪŋ): Tia chớp
+Weather (ˈwɛðə): Thời tiết
+Climate (ˈklaɪmɪt): Khí hậu
+Temperature (ˈtɛmprɪʧə): Nhiệt độ
+Heat (hiːt): Sức nóng
+Cold (kəʊld): Cái lạnh
+Breeze (briːz): Cơn gió nhẹ
+Hurricane (ˈhʌrɪkən): Bão cuồng phong
+Tornado (tɔːˈneɪdəʊ): Lốc xoáy
+Fog (fɒg): Sương mù
+Ice (aɪs): Băng
+Frost (frɒst): Sương giá
+Dew (djuː): Sương sớm
+Flood (flʌd): Lũ lụt
+Drought (draʊt): Hạn hán
+Earthquake (ˈɜːθkweɪk): Động đất
+Tsunami (tsuːˈnɑːmi): Sóng thần
+Volcano (vɒlˈkeɪnəʊ): Núi lửa
+Landscape (ˈlænskeɪp): Phong cảnh
+Scenery (ˈsiːnəri): Cảnh vật
+Mountain (ˈmaʊntɪn): Ngọn núi
+Hill (hɪl): Ngọn đồi
+Valley (ˈvæli): Thung lũng
+Cave (keɪv): Hang động
+Cliff (klɪf): Vách đá
+Rock (rɒk): Tảng đá
+Stone (stəʊn): Hòn đá
+Pebble (ˈpɛbl): Hòn sỏi
+Sand (sænd): Cát
+Dirt (dɜːt): Đất bụi
+Soil (sɔɪl): Đất trồng
+Mud (mʌd): Bùn
+Dust (dʌst): Bụi
+Land (lænd): Đất liền
+Ground (graʊnd): Mặt đất
+Field (fiːld): Cánh đồng
+Meadow (ˈmɛdəʊ): Đồng cỏ
+Grass (grɑːs): Cỏ
+Tree (triː): Cái cây
+Forest (ˈfɒrɪst): Khu rừng
+Wood (wʊd): Rừng cây, gỗ
+Jungle (ˈʤʌŋgl): Rừng rậm nhiệt đới
+Plant (plɑːnt): Thực vật, cây cối
+Bush (bʊʃ): Bụi cây
+Shrub (ʃrʌb): Cây bụi
+Leaf (liːf): Chiếc lá
+Branch (brɑːnʧ): Cành cây
+Root (ruːt): Rễ cây
+Trunk (trʌŋk): Thân cây
+Flower (ˈflaʊə): Bông hoa
+Blossom (ˈblɒsəm): Hoa (của cây ăn quả)
+Bud (bʌd): Nụ hoa
+Seed (siːd): Hạt giống
+Fruit (fruːt): Quả
+Berry (ˈbɛri): Quả mọng
+Nut (nʌt): Hạt, quả hạch
+Water (ˈwɔːtə): Nước
+Ocean (ˈəʊʃən): Đại dương
+Sea (siː): Biển
+Coast (kəʊst): Bờ biển
+Shore (ʃɔː): Bờ biển, bờ hồ
+Beach (biːʧ): Bãi biển
+Wave (weɪv): Cơn sóng
+Tide (taɪd): Thủy triều
+River (ˈrɪvə): Dòng sông
+Stream (striːm): Dòng suối
+Lake (leɪk): Cái hồ
+Pond (pɒnd): Cái ao
+Waterfall (ˈwɔːtəfɔːl): Thác nước
+Island (ˈaɪlənd): Hòn đảo
+Peninsula (pɪˈnɪnsjʊlə): Bán đảo
+Desert (ˈdɛzət): Sa mạc
+Oasis (əʊˈeɪsɪs): Ốc đảo
+Swamp (swɒmp): Đầm lầy
+Animal (ˈænɪməl): Động vật
+Creature (ˈkriːʧə): Sinh vật
+Pet (pɛt): Thú cưng
+Dog (dɒg): Con chó
+Puppy (ˈpʌpi): Chó con
+Cat (kæt): Con mèo
+Kitten (ˈkɪtn): Mèo con
+Mouse (maʊs): Con chuột
+Rat (ræt): Chuột cống
+Rabbit (ˈræbɪt): Con thỏ
+Bird (bɜːd): Con chim
+Eagle (ˈiːgl): Đại bàng
+Hawk (hɔːk): Diều hâu
+Owl (aʊl): Con cú
+Pigeon (ˈpɪʤɪn): Chim bồ câu
+Duck (dʌk): Con vịt
+Chicken (ˈʧɪkɪn): Con gà
+Hen (hɛn): Gà mái
+Rooster (ˈruːstə): Gà trống
+Goose (guːs): Ngỗng
+Turkey (ˈtɜːki): Gà tây
+Pig (pɪg): Con lợn
+Cow (kaʊ): Con bò
+Bull (bʊl): Bò tót
+Horse (hɔːs): Con ngựa
+Sheep (ʃiːp): Con cừu
+Goat (gəʊt): Con dê
+Donkey (ˈdɒŋki): Con lừa
+Deer (dɪə): Con hươu, nai
+Bear (beə): Con gấu
+Lion (ˈlaɪən): Sư tử
+Tiger (ˈtaɪgə): Con hổ
+Elephant (ˈɛlɪfənt): Con voi
+Monkey (ˈmʌŋki): Con khỉ
+Ape (eɪp): Vượn
+Gorilla (gəˈrɪlə): Khỉ đột
+Giraffe (ʤɪˈrɑːf): Hươu cao cổ
+Zebra (ˈziːbrə): Ngựa vằn
+Kangaroo (ˌkæŋgəˈruː): Chuột túi
+Fox (fɒks): Con cáo
+Wolf (wʊlf): Chó sói
+Snake (sneɪk): Con rắn
+Crocodile (ˈkrɒkədaɪl): Cá sấu
+Turtle (ˈtɜːtl): Con rùa
+Frog (frɒg): Con ếch
+Toad (təʊd): Con cóc
+Fish (fɪʃ): Con cá
+Shark (ʃɑːk): Cá mập
+Whale (weɪl): Cá voi
+Dolphin (ˈdɒlfɪn): Cá heo
+Crab (kræb): Con cua
+Shrimp (ʃrɪmp): Con tôm
+Octopus (ˈɒktəpʊs): Bạch tuộc
+Insect (ˈɪnsɛkt): Côn trùng
+Bug (bʌg): Con bọ
+Ant (ænt): Con kiến
+Bee (biː): Con ong
+Butterfly (ˈbʌtəflaɪ): Con bướm
+Spider (ˈspaɪdə): Con nhện
+Fly (flaɪ): Con ruồi
+Mosquito (məsˈkiːtəʊ): Con muỗi
+Worm (wɜːm): Con giun
+Snail (sneɪl): Ốc sên

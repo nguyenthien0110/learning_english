@@ -1,244 +1,1504 @@
-Student (ˈstjuːdənt): Học sinh
-Factory (ˈfæktri): Nhà máy, xí nghiệp
+Family (ˈfæmɪli): Gia đình
+Mother (ˈmʌðə): Mẹ
+Father (ˈfɑːðə): Bố
+Parent (ˈpeərənt): Phụ huynh, bố mẹ
+Son (sʌn): Con trai
+Daughter (ˈdɔːtə): Con gái
+Child (ʧaɪld): Đứa trẻ
+Kid (kɪd): Trẻ con
+Baby (ˈbeɪbi): Em bé
+Infant (ˈɪnfənt): Trẻ sơ sinh
+Toddler (ˈtɒdlə): Trẻ mới biết đi
+Teenager (ˈtiːnˌeɪʤə): Thanh thiếu niên
+Adult (ˈædʌlt): Người lớn
+Youth (juːθ): Tuổi trẻ, thanh niên
+Senior (ˈsiːnjə): Người cao tuổi
+Man (mæn): Đàn ông
+Woman (ˈwʊmən): Phụ nữ
+Boy (bɔɪ): Cậu bé
+Girl (gɜːl): Cô bé
+Person (ˈpɜːsn): Một người
+People (ˈpiːpl): Mọi người
+Crowd (kraʊd): Đám đông
+Human (ˈhjuːmən): Con người
+Society (səˈsaɪəti): Xã hội
+Generation (ˌʤɛnəˈreɪʃən): Thế hệ
+Brother (ˈbrʌðə): Anh/em trai
+Sister (ˈsɪstə): Chị/em gái
+Sibling (ˈsɪblɪŋ): Anh chị em ruột
+Grandfather (ˈgrændˌfɑːðə): Ông
+Grandmother (ˈgrændˌmʌðə): Bà
+Grandparent (ˈgrændˌpeərənt): Ông bà
+Grandson (ˈgrændsʌn): Cháu trai (của ông bà)
+Granddaughter (ˈgrændˌdɔːtə): Cháu gái (của ông bà)
+Grandchild (ˈgrændʧaɪld): Cháu (của ông bà)
+Uncle (ˈʌŋkl): Chú, bác trai, cậu
+Aunt (ɑːnt): Cô, dì, bác gái
+Cousin (ˈkʌzn): Anh chị em họ
+Nephew (ˈnɛfjuː): Cháu trai (của cô/chú)
+Niece (niːs): Cháu gái (của cô/chú)
+Husband (ˈhʌzbənd): Chồng
+Wife (waɪf): Vợ
+Spouse (spaʊz): Vợ/chồng
+Partner (ˈpɑːtnə): Bạn đời, đối tác
+Couple (ˈkʌpl): Cặp đôi
+Marriage (ˈmærɪʤ): Hôn nhân
+Wedding (ˈwɛdɪŋ): Đám cưới
+Divorce (dɪˈvɔːs): Ly hôn
+Birth (bɜːθ): Sự ra đời
+Death (dɛθ): Cái chết
+Life (laɪf): Cuộc sống
+Age (eɪʤ): Tuổi tác
+Relative (ˈrɛlətɪv): Họ hàng
+Stepmother (ˈstɛpˌmʌðə): Mẹ kế
+Stepfather (ˈstɛpˌfɑːðə): Bố dượng
+Stepson (ˈstɛpsʌn): Con trai riêng
+Stepdaughter (ˈstɛpˌdɔːtə): Con gái riêng
+Orphan (ˈɔːfən): Trẻ mồ côi
+Twin (twɪn): Sinh đôi
+Friend (frɛnd): Bạn bè
+Buddy (ˈbʌdi): Bạn thân
+Mate (meɪt): Bạn đồng hành
+Neighbor (ˈneɪbə): Hàng xóm
+Guest (gɛst): Khách
+Stranger (ˈstreɪnʤə): Người lạ
+Acquaintance (əˈkweɪntəns): Người quen
+Peer (pɪə): Người đồng trang lứa
+Roommate (ˈruːmmeɪt): Bạn cùng phòng
+Classmate (ˈklɑːsmeɪt): Bạn cùng lớp
+Penpal (ˈpɛnpæl): Bạn qua thư
+Boyfriend (ˈbɔɪfrɛnd): Bạn trai
+Girlfriend (ˈgɜːlfrɛnd): Bạn gái
+Fiance (fɪˈɑːnseɪ): Chồng sắp cưới
+Fiancee (fɪˈɑːnseɪ): Vợ sắp cưới
+Lover (ˈlʌvə): Người yêu
+Enemy (ˈɛnɪmi): Kẻ thù
+Rival (ˈraɪvəl): Đối thủ
+Boss (bɒs): Sếp
+Colleague (ˈkɒliːg): Đồng nghiệp
+Identity (aɪˈdɛntɪti): Danh tính
+Name (neɪm): Tên
+Surname (ˈsɜːneɪm): Họ
+Nickname (ˈnɪkneɪm): Biệt danh
+Gender (ˈʤɛndə): Giới tính
+Male (meɪl): Nam giới
+Female (ˈfiːmeɪl): Nữ giới
+Sex (sɛks): Giới tính
+Nationality (ˌnæʃəˈnælɪti): Quốc tịch
+Citizen (ˈsɪtɪzn): Công dân
+Status (ˈsteɪtəs): Tình trạng (hôn nhân, xã hội)
+Single (ˈsɪŋgl): Độc thân
+Married (ˈmærɪd): Đã kết hôn
+Widowed (ˈwɪdəʊd): Góa bụa
+Address (əˈdrɛs): Địa chỉ
+Hometown (ˈhəʊmtaʊn): Quê hương
+Clothes (kləʊðz): Quần áo
+Shirt (ʃɜːt): Áo sơ mi
+T-shirt (ˈtiːʃɜːt): Áo thun
+Pants (pænts): Quần dài
+Trousers (ˈtraʊzəz): Quần âu
+Jeans (ʤiːnz): Quần bò
+Shorts (ʃɔːts): Quần cộc
+Skirt (skɜːt): Chân váy
+Dress (drɛs): Váy liền
+Suit (sjuːt): Bộ com-lê
+Coat (kəʊt): Áo khoác dài
+Jacket (ˈʤækɪt): Áo khoác ngắn
+Sweater (ˈswɛtə): Áo len
+Uniform (ˈjuːnɪfɔːm): Đồng phục
+Underwear (ˈʌndəweə): Đồ lót
+Sock (sɒk): Chiếc tất
+Shoe (ʃuː): Chiếc giày
+Boot (buːt): Giày bốt
+Slipper (ˈslɪpə): Dép đi trong nhà
+Sandal (ˈsændl): Dép xăng-đan
+Hat (hæt): Cái mũ
+Cap (kæp): Mũ lưỡi trai
+Tie (taɪ): Cà vạt
+Belt (bɛlt): Thắt lưng
+Scarf (skɑːf): Khăn quàng cổ
+Glove (glʌv): Găng tay
+Glasses (ˈglɑːsɪz): Kính mắt
+Ring (rɪŋ): Chiếc nhẫn
+Watch (wɒʧ): Đồng hồ đeo tay
+Necklace (ˈnɛklɪs): Vòng cổ
+Bracelet (ˈbreɪslɪt): Vòng tay
+Earring (ˈɪərɪŋ): Khuyên tai
+Bag (bæg): Cái túi
+Backpack (ˈbækˌpæk): Balo
+Purse (pɜːs): Ví nữ
+Wallet (ˈwɒlɪt): Ví nam
+Key (kiː): Chìa khóa
+Phone (fəʊn): Điện thoại
+Umbrella (ʌmˈbrɛlə): Cái ô
+Comb (kəʊm): Cái lược thẳng
+Brush (brʌʃ): Lược tròn, bàn chải
+Mirror (ˈmɪrə): Cái gương
+Towel (ˈtaʊəl): Khăn tắm
+Soap (səʊp): Xà phòng
+Tissue (ˈtɪʃuː): Khăn giấy
+Perfume (ˈpɜːfjuːm): Nước hoa
+Makeup (ˈmeɪkʌp): Đồ trang điểm
+Lipstick (ˈlɪpstɪk): Son môi
+Razor (ˈreɪzə): Dao cạo râu
+Lotion (ˈləʊʃən): Sữa dưỡng thể
+Cream (kriːm): Kem dưỡng
+Shampoo (ʃæmˈpuː): Dầu gội
+Toothbrush (ˈtuːθbrʌʃ): Bàn chải đánh răng
+Toothpaste (ˈtuːθpeɪst): Kem đánh răng
+Pocket (ˈpɒkɪt): Túi áo/quần
+Button (ˈbʌtn): Cúc áo
+Zipper (ˈzɪpə): Khóa kéo
+Collar (ˈkɒlə): Cổ áo
+Sleeve (sliːv): Tay áo
+House (haʊs): Ngôi nhà
+Home (həʊm): Tổ ấm
+Room (ruːm): Căn phòng
+Door (dɔː): Cửa ra vào
+Window (ˈwɪndəʊ): Cửa sổ
+Wall (wɔːl): Bức tường
+Floor (flɔː): Sàn nhà
+Ceiling (ˈsiːlɪŋ): Trần nhà
+Roof (ruːf): Mái nhà
+Kitchen (ˈkɪʧɪn): Nhà bếp
+Bathroom (ˈbɑːθruːm): Phòng tắm
+Bedroom (ˈbɛdruːm): Phòng ngủ
+Living room (ˈlɪvɪŋ ruːm): Phòng khách
+Dining room (ˈdaɪnɪŋ ruːm): Phòng ăn
+Garage (ˈgærɑːʒ): Gara để xe
+Attic (ˈætɪk): Gác xép
+Basement (ˈbeɪsmənt): Tầng hầm
+Balcony (ˈbælkəni): Ban công
+Stairs (steəz): Cầu thang
+Hallway (ˈhɔːlweɪ): Hành lang
+Porch (pɔːʧ): Mái hiên
+Yard (jɑːd): Sân
+Garden (ˈgɑːdn): Khu vườn
+Gate (geɪt): Cổng
+Fence (fɛns): Hàng rào
+Chimney (ˈʧɪmni): Ống khói
+Apartment (əˈpɑːtmənt): Căn hộ
+Flat (flæt): Căn hộ (Anh-Anh)
+Villa (ˈvɪlə): Biệt thự
+Furniture (ˈfɜːnɪʧə): Đồ nội thất
+Bed (bɛd): Cái giường
+Chair (ʧeə): Cái ghế
+Table (ˈteɪbl): Cái bàn
+Sofa (ˈsəʊfə): Ghế sô-pha
+Couch (kaʊʧ): Ghế bành dài
+Desk (dɛsk): Bàn làm việc
+Bookshelf (ˈbʊkʃɛlf): Giá sách
+Wardrobe (ˈwɔːdrəʊb): Tủ quần áo
+Closet (ˈklɒzɪt): Tủ âm tường
+Cabinet (ˈkæbɪnɪt): Tủ đựng đồ có ngăn
+Drawer (drɔː): Ngăn kéo
+Stool (stuːl): Ghế đẩu
+Armchair (ˈɑːmˈʧeə): Ghế bành
+Bench (bɛnʧ): Ghế dài
+Cot (kɒt): Cũi trẻ em
+Cradle (ˈkreɪdl): Cái nôi
+Fan (fæn): Cái quạt
+Heater (ˈhiːtə): Lò sưởi, máy sưởi
+Lamp (læmp): Đèn bàn/đèn ngủ
+Light (laɪt): Bóng đèn, ánh sáng
+Fridge (frɪʤ): Tủ lạnh
+Refrigerator (rɪˈfrɪʤəreɪtə): Tủ lạnh (đầy đủ)
+Oven (ˈʌvn): Lò nướng
+Stove (stəʊv): Bếp nấu
+Microwave (ˈmaɪkrəʊweɪv): Lò vi sóng
+Iron (ˈaɪən): Bàn là, bàn ủi
+Television (ˈtɛlɪˌvɪʒən): Tivi
+Radio (ˈreɪdɪəʊ): Đài phát thanh
+Computer (kəmˈpjuːtə): Máy tính
+Laptop (ˈlæpˌtɒp): Máy tính xách tay
+Speaker (ˈspiːkə): Loa
+Telephone (ˈtɛlɪfəʊn): Điện thoại bàn
+Plate (pleɪt): Cái đĩa
+Bowl (bəʊl): Cái bát, tô
+Cup (kʌp): Cái tách
+Glass (glɑːs): Cái ly thủy tinh
+Spoon (spuːn): Cái thìa, muỗng
+Fork (fɔːk): Cái nĩa
+Knife (naɪf): Con dao
+Chopsticks (ˈʧɒpstɪks): Đũa
+Pan (pæn): Cái chảo
+Pot (pɒt): Cái nồi
+Kettle (ˈkɛtl): Ấm đun nước
+Teapot (ˈtiːpɒt): Ấm pha trà
+Mug (mʌg): Cốc có quai
+Pitcher (ˈpɪʧə): Bình đựng nước (có quai)
+Jug (ʤʌg): Cái bình rót nước
+Tray (treɪ): Cái khay
+Blender (ˈblɛndə): Máy xay sinh tố
+Toaster (ˈtəʊstə): Máy nướng bánh mì
+Blanket (ˈblæŋkɪt): Cái chăn
+Pillow (ˈpɪləʊ): Cái gối
+Mattress (ˈmætrɪs): Tấm đệm
+Sheet (ʃiːt): Ga trải giường
+Curtain (ˈkɜːtn): Rèm cửa
+Rug (rʌg): Tấm thảm nhỏ
+Carpet (ˈkɑːpɪt): Thảm trải sàn
+Toilet (ˈtɔɪlɪt): Bồn cầu
+Sink (sɪŋk): Bồn rửa tay, bồn rửa bát
+Bathtub (ˈbɑːθtʌb): Bồn tắm
+Shower (ˈʃaʊə): Vòi hoa sen
+Clock (klɒk): Đồng hồ treo tường
+Picture (ˈpɪkʧə): Bức tranh, bức ảnh
+Painting (ˈpeɪntɪŋ): Bức họa
+Vase (vɑːz): Bình hoa
+Basket (ˈbɑːskɪt): Cái rổ, cái giỏ
+Broom (bruːm): Cái chổi
+Mop (mɒp): Cây lau nhà
+Bucket (ˈbʌkɪt): Cái xô
+Sponge (spʌnʤ): Miếng bọt biển
+Scissors (ˈsɪzəz): Cái kéo
+Hammer (ˈhæmə): Cái búa
+Nail (neɪl): Cái đinh
+Screwdriver (ˈskruːˌdraɪvə): Tua vít
+Wrench (rɛnʧ): Cờ lê
+Plier (ˈplaɪə): Cái kìm
+Drill (drɪl): Máy khoan
+Ladder (ˈlædə): Cái thang
+Rope (rəʊp): Dây thừng
+Wire (waɪə): Dây điện
+Battery (ˈbætəri): Cục pin
+Match (mæʧ): Que diêm
+Lighter (ˈlaɪtə): Bật lửa
+Candle (ˈkændl): Ngọn nến
+Lock (lɒk): Ổ khóa
+Doorknob (ˈdɔːnɒb): Tay nắm cửa
+Bell (bɛl): Chuông cửa
+Switch (swɪʧ): Công tắc
+Plug (plʌg): Phích cắm
+Socket (ˈsɒkɪt): Ổ cắm
+Pipe (paɪp): Đường ống
+Tap (tæp): Vòi nước
+Faucet (ˈfɔːsɪt): Vòi nước (Mỹ)
+Leak (liːk): Sự rò rỉ
+Dust (dʌst): Bụi
+Dirt (dɜːt): Vết bẩn, bụi đất
+Mess (mɛs): Đống lộn xộn
+Trash (træʃ): Rác
+Garbage (ˈgɑːbɪʤ): Rác thải sinh hoạt
+Rubbish (ˈrʌbɪʃ): Rác (Anh)
+Bin (bɪn): Thùng rác
+Ash (æʃ): Tro
+Fire (faɪə): Lửa
+Smoke (sməʊk): Khói
+Heat (hiːt): Hơi nóng
+Cold (kəʊld): Hơi lạnh
+Air (eə): Không khí
+Space (speɪs): Không gian
+Corner (ˈkɔːnə): Góc (phòng)
+Center (ˈsɛntə): Trung tâm, chính giữa
+Edge (ɛʤ): Cạnh, mép
+Side (saɪd): Mặt bên
+Top (tɒp): Đỉnh, phía trên
+Bottom (ˈbɒtəm): Đáy, phía dưới
+Front (frʌnt): Phía trước
+Back (bæk): Phía sau
+Inside (ɪnˈsaɪd): Bên trong
+Outside (ˌaʊtˈsaɪd): Bên ngoài
+Above (əˈbʌv): Bên trên
+Below (bɪˈləʊ): Phía dưới
+Food (fuːd): Thức ăn
+Water (ˈwɔːtə): Nước
+Meal (miːl): Bữa ăn
+Breakfast (ˈbrɛkfəst): Bữa sáng
+Lunch (lʌnʧ): Bữa trưa
+Dinner (ˈdɪnə): Bữa tối
+Snack (snæk): Bữa ăn nhẹ, đồ ăn vặt
+Dessert (dɪˈzɜːt): Món tráng miệng
+Drink (drɪŋk): Đồ uống
+Beverage (ˈbɛvərɪʤ): Đồ uống (trang trọng)
+Ingredient (ɪnˈgriːdjənt): Nguyên liệu
+Recipe (ˈrɛsɪpi): Công thức nấu ăn
+Menu (ˈmɛnjuː): Thực đơn
+Appetizer (ˈæpɪtaɪzə): Món khai vị
+Soup (suːp): Món súp
+Salad (ˈsæləd): Món rau trộn
+Rice (raɪs): Gạo, cơm
+Bread (brɛd): Bánh mì
+Noodle (ˈnuːdl): Mì sợi
+Pasta (ˈpæstə): Mì Ý
+Meat (miːt): Thịt
+Pork (pɔːk): Thịt lợn
+Beef (biːf): Thịt bò
+Chicken (ˈʧɪkɪn): Thịt gà
+Duck (dʌk): Thịt vịt
+Lamb (læm): Thịt cừu
+Fish (fɪʃ): Cá
+Seafood (ˈsiːfuːd): Hải sản
+Shrimp (ʃrɪmp): Tôm
+Crab (kræb): Cua
+Squid (skwɪd): Mực
+Egg (ɛg): Quả trứng
+Sausage (ˈsɒsɪʤ): Xúc xích
+Bacon (ˈbeɪkən): Thịt xông khói
+Ham (hæm): Thịt giăm bông
+Tofu (ˈtəʊfuː): Đậu phụ
+Vegetable (ˈvɛʤtəbl): Rau củ
+Tomato (təˈmɑːtəʊ): Cà chua
+Potato (pəˈteɪtəʊ): Khoai tây
+Onion (ˈʌnjən): Hành tây
+Garlic (ˈgɑːlɪk): Tỏi
+Carrot (ˈkærət): Cà rốt
+Cabbage (ˈkæbɪʤ): Bắp cải
+Lettuce (ˈlɛtɪs): Rau xà lách
+Mushroom (ˈmʌʃrʊm): Nấm
+Cucumber (ˈkjuːkʌmbə): Dưa chuột
+Corn (kɔːn): Ngô
+Bean (biːn): Đậu, đỗ
+Pea (piː): Đậu Hà Lan
+Pepper (ˈpɛpə): Hạt tiêu, ớt chuông
+Pumpkin (ˈpʌmpkɪn): Bí ngô
+Broccoli (ˈbrɒkəli): Súp lơ xanh
+Spinach (ˈspɪnɪʧ): Rau chân vịt
+Eggplant (ˈɛgplɑːnt): Cà tím
+Radish (ˈrædɪʃ): Củ cải
+Ginger (ˈʤɪnʤə): Gừng
+Fruit (fruːt): Trái cây
+Apple (ˈæpl): Quả táo
+Banana (bəˈnɑːnə): Quả chuối
+Orange (ˈɒrɪnʤ): Quả cam
+Lemon (ˈlɛmən): Quả chanh vàng
+Lime (laɪm): Quả chanh xanh
+Grape (greɪp): Quả nho
+Mango (ˈmæŋgəʊ): Quả xoài
+Strawberry (ˈstrɔːbəri): Dâu tây
+Watermelon (ˈwɔːtəˌmɛlən): Dưa hấu
+Melon (ˈmɛlən): Dưa lưới
+Pineapple (ˈpaɪnˌæpl): Quả dứa
+Peach (piːʧ): Quả đào
+Pear (peə): Quả lê
+Cherry (ˈʧɛri): Quả anh đào
+Coconut (ˈkəʊkənʌt): Quả dừa
+Papaya (pəˈpaɪə): Quả đu đủ
+Avocado (ˌævəʊˈkɑːdəʊ): Quả bơ
+Kiwi (ˈkiːwi): Quả kiwi
+Milk (mɪlk): Sữa
+Cheese (ʧiːz): Phô mai
+Butter (ˈbʌtə): Bơ
+Yogurt (ˈjɒgət): Sữa chua
+Cream (kriːm): Kem (sữa)
+Ice cream (aɪs kriːm): Kem (lạnh)
+Cake (keɪk): Bánh ngọt
+Candy (ˈkændi): Kẹo
+Chocolate (ˈʧɒkəlɪt): Sô-cô-la
+Cookie (ˈkʊki): Bánh quy
+Biscuit (ˈbɪskɪt): Bánh quy (Anh)
+Pie (paɪ): Bánh nướng nhân ngọt/mặn
+Tart (tɑːt): Bánh tart
+Jam (ʤæm): Mứt
+Honey (ˈhʌni): Mật ong
+Sugar (ˈʃʊgə): Đường
+Coffee (ˈkɒfi): Cà phê
+Tea (tiː): Trà
+Juice (ʤuːs): Nước ép
+Beer (bɪə): Bia
+Wine (waɪn): Rượu vang
+Alcohol (ˈælkəhɒl): Đồ uống có cồn
+Liquor (ˈlɪkə): Rượu mạnh
+Soda (ˈsəʊdə): Nước ngọt có ga
+Cola (ˈkəʊlə): Nước coca
+Salt (sɔːlt): Muối
+Vinegar (ˈvɪnɪgə): Giấm
+Sauce (sɔːs): Nước xốt
+Spice (spaɪs): Gia vị
+Herb (hɜːb): Thảo mộc, rau thơm
+Sweet (swiːt): Ngọt
+Sour (saʊə): Chua
+Salty (ˈsɔːlti): Mặn
+Bitter (ˈbɪtə): Đắng
+Spicy (ˈspaɪsi): Cay
+Hot (hɒt): Nóng, cay
+Fresh (frɛʃ): Tươi mới
+Raw (rɔː): Sống, chưa nấu
+Ripe (raɪp): Chín (trái cây)
+Rotten (ˈrɒtn): Thối rữa
+Delicious (dɪˈlɪʃəs): Thơm ngon
+Tasty (ˈteɪsti): Ngon miệng
+Yummy (ˈjʌmi): Tuyệt ngon (khẩu ngữ)
+Disgusting (dɪsˈgʌstɪŋ): Kinh tởm
+Boil (bɔɪl): Luộc, đun sôi
+Fry (fraɪ): Rán, chiên
+Bake (beɪk): Nướng (bánh)
+Roast (rəʊst): Quay, nướng (thịt)
+Grill (grɪl): Nướng vỉ
+Steam (stiːm): Hấp
+Chop (ʧɒp): Băm, chặt
+Slice (slaɪs): Thái lát
+Stir (stɜː): Khuấy
+Mix (mɪks): Trộn
+Pour (pɔː): Rót, đổ
+Taste (teɪst): Nếm
+Market (ˈmɑːkɪt): Chợ
+Supermarket (ˈsuːpəˌmɑːkɪt): Siêu thị
+Shop (ʃɒp): Cửa hàng
+Store (stɔː): Cửa hiệu
+Price (praɪs): Giá cả
+Money (ˈmʌni): Tiền
+Cash (kæʃ): Tiền mặt
+Coin (kɔɪn): Tiền xu
+Wallet (ˈwɒlɪt): Ví tiền
+Bag (bæg): Túi xách
+Bill (bɪl): Hóa đơn
+Receipt (rɪˈsiːt): Biên lai
+Customer (ˈkʌstəmə): Khách hàng
+Seller (ˈsɛlə): Người bán
+Buy (baɪ): Mua
+Sell (sɛl): Bán
+Pay (peɪ): Trả tiền
+Cost (kɒst): Trị giá
+Cheap (ʧiːp): Rẻ
 Work (wɜːk): Làm việc
-Watch (wɒʧ): Xem
-Cause (kɔːz): Gây ra
-Eye disease (aɪ dɪˈziːz): Bệnh về mắt
-Eat (iːt): Ăn
-Graduate (ˈgræʤueɪt): Tốt nghiệp
+Job (ʤɒb): Nghề nghiệp
+Career (kəˈrɪə): Sự nghiệp
+Profession (prəˈfɛʃən): Chuyên môn, nghề nghiệp
+Occupation (ˌɒkjʊˈpeɪʃən): Nghề nghiệp
+Office (ˈɒfɪs): Văn phòng
+Factory (ˈfæktri): Nhà máy
+Company (ˈkʌmpəni): Công ty
+Corporation (ˌkɔːpəˈreɪʃən): Tập đoàn
+Enterprise (ˈɛntəpraɪz): Doanh nghiệp
+Business (ˈbɪznɪs): Kinh doanh
+Industry (ˈɪndəstri): Công nghiệp
+Market (ˈmɑːkɪt): Thị trường
+Manager (ˈmænɪʤə): Người quản lý
+Boss (bɒs): Sếp
+Director (dɪˈrɛktə): Giám đốc
+Leader (ˈliːdə): Người lãnh đạo
+Employer (ɪmˈplɔɪə): Người sử dụng lao động
+Employee (ˌɛmplɔɪˈiː): Nhân viên
+Staff (stɑːf): Đội ngũ nhân viên
+Colleague (ˈkɒliːg): Đồng nghiệp
+Coworker (ˈkəʊˌwɜːkə): Đồng nghiệp
+Partner (ˈpɑːtnə): Đối tác
+Client (ˈklaɪənt): Khách hàng (dịch vụ)
+Customer (ˈkʌstəmə): Khách hàng (sản phẩm)
+Worker (ˈwɜːkə): Công nhân
+Labour (ˈleɪbə): Lao động
+Engineer (ˌɛnʤɪˈnɪə): Kỹ sư
+Technician (tɛkˈnɪʃən): Kỹ thuật viên
+Operator (ˈɒpəreɪtə): Người vận hành
+Mechanic (mɪˈkænɪk): Thợ máy
+Assistant (əˈsɪstənt): Trợ lý
+Secretary (ˈsɛkrətri): Thư ký
+Accountant (əˈkaʊntənt): Kế toán
+Clerk (klɑːk): Nhân viên văn phòng
+Salary (ˈsæləri): Tiền lương (tháng)
+Wage (weɪʤ): Tiền công (giờ/tuần)
+Income (ˈɪnkʌm): Thu nhập
+Bonus (ˈbəʊnəs): Tiền thưởng
+Tax (tæks): Thuế
+Interview (ˈɪntəvjuː): Cuộc phỏng vấn
+Resume (rɪˈzjuːm): Sơ yếu lý lịch
+Contract (ˈkɒntrækt): Hợp đồng
+Meeting (ˈmiːtɪŋ): Cuộc họp
+Conference (ˈkɒnfərəns): Hội nghị
+Presentation (ˌprɛzɛnˈteɪʃən): Bài thuyết trình
+Project (ˈprɒʤɛkt): Dự án
+Task (tɑːsk): Nhiệm vụ
+Duty (ˈdjuːti): Bổn phận, trách nhiệm
+Responsibility (rɪˌspɒnsɪˈbɪlɪti): Trách nhiệm
+Goal (gəʊl): Mục tiêu
+Target (ˈtɑːgɪt): Mục tiêu, chỉ tiêu
+Deadline (ˈdɛdlaɪn): Hạn chót
+Schedule (ˈʃɛdjuːl): Lịch trình
+Shift (ʃɪft): Ca làm việc
+Overtime (ˈəʊvətaɪm): Làm thêm giờ
+Experience (ɪksˈpɪərɪəns): Kinh nghiệm
+Skill (skɪl): Kỹ năng
+Ability (əˈbɪlɪti): Khả năng
+Knowledge (ˈnɒlɪʤ): Kiến thức
+Training (ˈtreɪnɪŋ): Đào tạo
+Promotion (prəˈməʊʃən): Sự thăng tiến
+Resignation (ˌrɛzɪgˈneɪʃən): Sự từ chức
+Retirement (rɪˈtaɪəmənt): Sự nghỉ hưu
+Document (ˈdɒkjʊmənt): Tài liệu
+Report (rɪˈpɔːt): Báo cáo
+File (faɪl): Tập tin, hồ sơ
+Folder (ˈfəʊldə): Thư mục
+Data (ˈdeɪtə): Dữ liệu
+Information (ˌɪnfəˈmeɪʃən): Thông tin
+Network (ˈnɛtwɜːk): Mạng lưới
+System (ˈsɪstɪm): Hệ thống
+Database (ˈdeɪtəbeɪs): Cơ sở dữ liệu
+Computer (kəmˈpjuːtə): Máy tính
+Laptop (ˈlæpˌtɒp): Máy tính xách tay
+Keyboard (ˈkiːbɔːd): Bàn phím
+Mouse (maʊs): Chuột máy tính
+Screen (skriːn): Màn hình
+Monitor (ˈmɒnɪtə): Màn hình hiển thị
+Printer (ˈprɪntə): Máy in
+Copier (ˈkɒpɪə): Máy photo
+Scanner (ˈskænə): Máy quét
+Desk (dɛsk): Bàn làm việc
+Chair (ʧeə): Ghế
+Stationery (ˈsteɪʃnəri): Văn phòng phẩm
+Pen (pɛn): Bút
+Pencil (ˈpɛnsl): Bút chì
+Paper (ˈpeɪpə): Giấy
+Note (nəʊt): Ghi chú
+Email (ˈiːmeɪl): Thư điện tử
+Message (ˈmɛsɪʤ): Tin nhắn
+Call (kɔːl): Cuộc gọi
+Signature (ˈsɪgnɪʧə): Chữ ký
+Stamp (stæmp): Con dấu, tem
+Machine (məˈʃiːn): Máy móc
+Equipment (ɪˈkwɪpmənt): Thiết bị
+Tool (tuːl): Công cụ
+Instrument (ˈɪnstrʊmənt): Dụng cụ
+Device (dɪˈvaɪs): Thiết bị
+Product (ˈprɒdʌkt): Sản phẩm
+Goods (gʊdz): Hàng hóa
+Material (məˈtɪərɪəl): Vật liệu
+Quality (ˈkwɒlɪti): Chất lượng
+Quantity (ˈkwɒntɪti): Số lượng
+Price (praɪs): Giá cả
+Cost (kɒst): Chi phí
+Profit (ˈprɒfɪt): Lợi nhuận
+Loss (lɒs): Sự thua lỗ
+Investment (ɪnˈvɛstmənt): Đầu tư
+Budget (ˈbʌʤɪt): Ngân sách
+Strategy (ˈstrætɪʤi): Chiến lược
+Plan (plæn): Kế hoạch
+Policy (ˈpɒlɪsi): Chính sách
+Rule (ruːl): Quy tắc
+Safety (ˈseɪfti): Sự an toàn
+Danger (ˈdeɪnʤə): Sự nguy hiểm
+Risk (rɪsk): Rủi ro
+Accident (ˈæksɪdənt): Tai nạn
+Error (ˈɛrə): Lỗi hệ thống/máy
+Mistake (mɪsˈteɪk): Sai lầm
+Problem (ˈprɒbləm): Vấn đề
+Issue (ˈɪʃuː): Vấn đề (cần bàn)
+Solution (səˈluːʃən): Giải pháp
+Idea (aɪˈdɪə): Ý tưởng
+Suggestion (səˈʤɛsʧən): Lời đề nghị
+Decision (dɪˈsɪʒən): Quyết định
+Agreement (əˈgriːmənt): Thỏa thuận
+Hire (ˈhaɪə): Thuê mướn, tuyển dụng
+Fire (faɪə): Sa thải
+Quit (kwɪt): Từ bỏ, nghỉ việc
+Apply (əˈplaɪ): Nộp đơn
+Lead (liːd): Dẫn dắt
+Manage (ˈmænɪʤ): Quản lý
+Control (kənˈtrəʊl): Kiểm soát
+Operate (ˈɒpəreɪt): Vận hành
+Produce (prəˈdjuːs): Sản xuất
+Manufacture (ˌmænjʊˈfækʧə): Chế tạo
+Assemble (əˈsɛmbl): Lắp ráp
+Pack (pæk): Đóng gói
+Ship (ʃɪp): Vận chuyển
+Deliver (dɪˈlɪvə): Giao hàng
+Supply (səˈplaɪ): Cung cấp
+Design (dɪˈzaɪn): Thiết kế
+Develop (dɪˈvɛləp): Phát triển
+Test (tɛst): Kiểm tra thử
+Fix (fɪks): Sửa chữa
+Repair (rɪˈpeə): Sửa chữa, tu sửa
+Maintain (meɪnˈteɪn): Bảo trì
+Upgrade (ʌpˈgreɪd): Nâng cấp
+Student (ˈstjuːdənt): Học sinh, sinh viên
+Pupil (ˈpjuːpl): Học sinh (nhỏ tuổi)
+Teacher (ˈtiːʧə): Giáo viên
+Lecturer (ˈlɛkʧərə): Giảng viên
+Professor (prəˈfɛsə): Giáo sư
+Principal (ˈprɪnsəpəl): Hiệu trưởng
+Tutor (ˈtjuːtə): Gia sư
+Coach (kəʊʧ): Huấn luyện viên
+Classmate (ˈklɑːsmeɪt): Bạn cùng lớp
+School (skuːl): Trường học
+Kindergarten (ˈkɪndəˌgɑːtn): Trường mẫu giáo
+College (ˈkɒlɪʤ): Trường cao đẳng
 University (ˌjuːnɪˈvɜːsɪti): Trường đại học
+Academy (əˈkædəmi): Học viện
+Institute (ˈɪnstɪtjuːt): Viện nghiên cứu
+Class (klɑːs): Lớp học
+Classroom (ˈklɑːsrʊm): Phòng học
+Grade (greɪd): Lớp, khối lớp, điểm số
+Course (kɔːs): Khóa học
+Lesson (ˈlɛsn): Bài học
+Term (tɜːm): Học kỳ (Anh)
+Semester (sɪˈmɛstə): Học kỳ (Mỹ)
+Break (breɪk): Giờ giải lao
+Subject (ˈsʌbʤɪkt): Môn học
+Math (mæθ): Toán học
+Algebra (ˈælʤɪbrə): Đại số
+Geometry (ʤɪˈɒmɪtri): Hình học
+Science (ˈsaɪəns): Khoa học
+Physics (ˈfɪzɪks): Vật lý
+Chemistry (ˈkɛmɪstri): Hóa học
+Biology (baɪˈɒləʤi): Sinh học
+History (ˈhɪstəri): Lịch sử
+Geography (ʤɪˈɒgrəfi): Địa lý
+Literature (ˈlɪtərɪʧə): Văn học
+Art (ɑːt): Nghệ thuật, Mỹ thuật
+Music (ˈmjuːzɪk): Âm nhạc
+Language (ˈlæŋgwɪʤ): Ngôn ngữ
+Grammar (ˈgræmə): Ngữ pháp
+Vocabulary (vəʊˈkæbjʊləri): Từ vựng
+Spelling (ˈspɛlɪŋ): Đánh vần
+Pronunciation (prəˌnʌnsɪˈeɪʃən): Phát âm
+Exam (ɪgˈzæm): Bài kiểm tra, kỳ thi
+Test (tɛst): Bài thi ngắn
+Quiz (kwɪz): Câu đố, bài kiểm tra nhanh
+Assignment (əˈsaɪnmənt): Bài tập được giao
+Homework (ˈhəʊmˌwɜːk): Bài tập về nhà
+Project (ˈprɒʤɛkt): Dự án học tập
+Essay (ˈɛseɪ): Bài tiểu luận
+Report (rɪˈpɔːt): Bài báo cáo
+Presentation (ˌprɛzɛnˈteɪʃən): Bài thuyết trình
+Score (skɔː): Điểm số
+Mark (mɑːk): Điểm (Anh)
+Result (rɪˈzʌlt): Kết quả
+Certificate (səˈtɪfɪkɪt): Chứng chỉ
+Diploma (dɪˈpləʊmə): Bằng cấp (thường là cao đẳng)
+Degree (dɪˈgriː): Bằng đại học
+Scholarship (ˈskɒləʃɪp): Học bổng
+Library (ˈlaɪbrəri): Thư viện
+Laboratory (ləˈbɒrətəri): Phòng thí nghiệm
+Campus (ˈkæmpəs): Khuôn viên trường
+Canteen (kænˈtiːn): Căng tin trường học
+Dormitory (ˈdɔːmɪtri): Ký túc xá
+Uniform (ˈjuːnɪfɔːm): Đồng phục
+Book (bʊk): Quyển sách
+Textbook (ˈtɛkstbʊk): Sách giáo khoa
+Notebook (ˈnəʊtbʊk): Vở ghi
+Dictionary (ˈdɪkʃənəri): Từ điển
+Pen (pɛn): Cái bút
+Pencil (ˈpɛnsl): Bút chì
+Eraser (ɪˈreɪzə): Cục tẩy
+Ruler (ˈruːlə): Thước kẻ
+Marker (ˈmɑːkə): Bút lông
+Chalk (ʧɔːk): Phấn
+Board (bɔːd): Bảng
+Whiteboard (ˈwaɪtbɔːd): Bảng trắng
+Blackboard (ˈblækbɔːd): Bảng đen
+Desk (dɛsk): Bàn học
+Chair (ʧeə): Ghế
+Backpack (ˈbækˌpæk): Balo
+Bag (bæg): Cặp sách
+Calculator (ˈkælkjʊleɪtə): Máy tính cầm tay
+Computer (kəmˈpjuːtə): Máy tính
+Laptop (ˈlæpˌtɒp): Máy tính xách tay
+Screen (skriːn): Màn hình
+Internet (ˈɪntəˌnɛt): Mạng internet
+Website (ˈwɛbˌsaɪt): Trang web
+Document (ˈdɒkjʊmənt): Tài liệu
+Page (peɪʤ): Trang giấy
+Chapter (ˈʧæptə): Chương (sách)
+Paragraph (ˈpærəgrɑːf): Đoạn văn
+Sentence (ˈsɛntəns): Câu
+Word (wɜːd): Từ
+Letter (ˈlɛtə): Chữ cái
+Number (ˈnʌmbə): Con số
+Rule (ruːl): Quy tắc
+Theory (ˈθɪəri): Lý thuyết
+Practice (ˈpræktɪs): Thực hành
+Knowledge (ˈnɒlɪʤ): Kiến thức
+Skill (skɪl): Kỹ năng
+Ability (əˈbɪlɪti): Khả năng
+Talent (ˈtælənt): Tài năng
+Memory (ˈmɛməri): Trí nhớ
+Mind (maɪnd): Tâm trí
+Idea (aɪˈdɪə): Ý tưởng
+Thought (θɔːt): Suy nghĩ
+Question (ˈkwɛsʧən): Câu hỏi
+Answer (ˈɑːnsə): Câu trả lời
+Problem (ˈprɒbləm): Bài toán, vấn đề
+Solution (səˈluːʃən): Giải pháp
+Mistake (mɪsˈteɪk): Lỗi sai
+Example (ɪgˈzɑːmpl): Ví dụ
+Detail (ˈdiːteɪl): Chi tiết
+Summary (ˈsʌməri): Bản tóm tắt
+Review (rɪˈvjuː): Ôn tập
+Note (nəʊt): Ghi chú
+Study (ˈstʌdi): Học tập (nghiên cứu)
+Learn (lɜːn): Học hỏi (kỹ năng mới)
+Read (riːd): Đọc
+Write (raɪt): Viết
+Listen (ˈlɪsn): Nghe
+Speak (spiːk): Nói
+Discuss (dɪsˈkʌs): Thảo luận
+Explain (ɪksˈpleɪn): Giải thích
+Understand (ˌʌndəˈstænd): Hiểu
+Know (nəʊ): Biết
+Think (θɪŋk): Nghĩ
+Remember (rɪˈmɛmbə): Nhớ
+Forget (fəˈgɛt): Quên
+Guess (gɛs): Đoán
+Solve (sɒlv): Giải quyết
+Check (ʧɛk): Kiểm tra
+Correct (kəˈrɛkt): Chữa lỗi, làm đúng
+Fail (feɪl): Trượt, rớt
+Pass (pɑːs): Đậu, qua môn
+Graduate (ˈgrædjʊɪt): Tốt nghiệp
+Attend (əˈtɛnd): Tham dự
+Absent (ˈæbsənt): Vắng mặt
+Present (ˈprɛznt): Có mặt
+Smart (smɑːt): Thông minh
+Clever (ˈklɛvə): Khôn khéo
+Intelligent (ɪnˈtɛlɪʤənt): Thông minh, trí tuệ
+Diligent (ˈdɪlɪʤənt): Siêng năng
+Lazy (ˈleɪzi): Lười biếng
+Hardworking (ˈhɑːdˌwɜːkɪŋ): Chăm chỉ
+Curious (ˈkjʊərɪəs): Tò mò
+Easy (ˈiːzi): Dễ dàng
+Difficult (ˈdɪfɪkəlt): Khó khăn
+Hard (hɑːd): Khó, cứng
+Important (ɪmˈpɔːtənt): Quan trọng
+Basic (ˈbeɪsɪk): Cơ bản
+Transport (ˈtrænspɔːt): Giao thông, vận tải
+Vehicle (ˈviːɪkl): Phương tiện
+Car (kɑː): Ô tô
+Bus (bʌs): Xe buýt
+Train (treɪn): Tàu hỏa
+Bicycle (ˈbaɪsɪkl): Xe đạp
+Bike (baɪk): Xe đạp / xe máy
+Motorcycle (ˈməʊtəˌsaɪkl): Xe máy
+Scooter (ˈskuːtə): Xe tay ga
+Truck (trʌk): Xe tải
+Lorry (ˈlɒri): Xe tải (Anh)
+Van (væn): Xe tải nhỏ
+Taxi (ˈtæksi): Xe taxi
+Cab (kæb): Xe taxi
+Plane (pleɪn): Máy bay
+Airplane (ˈeəpleɪn): Máy bay
+Helicopter (ˈhɛlɪkɒptə): Trực thăng
+Boat (bəʊt): Thuyền nhỏ
+Ship (ʃɪp): Tàu thủy
+Ferry (ˈfɛri): Phà
+Subway (ˈsʌbweɪ): Tàu điện ngầm (Mỹ)
+Underground (ˈʌndəgraʊnd): Tàu điện ngầm (Anh)
+Tube (tjuːb): Tàu điện ngầm (London)
+Tram (træm): Tàu điện trên phố
+Ambulance (ˈæmbjʊləns): Xe cứu thương
+Road (rəʊd): Con đường
+Street (striːt): Đường phố
+Highway (ˈhaɪweɪ): Đường cao tốc
+Freeway (ˈfriːweɪ): Xa lộ
+Path (pɑːθ): Đường mòn
+Lane (leɪn): Làn đường
+Sidewalk (ˈsaɪdwɔːk): Vỉa hè (Mỹ)
+Pavement (ˈpeɪvmənt): Vỉa hè (Anh)
+Crosswalk (ˈkrɒswɔːk): Vạch qua đường
+Bridge (brɪʤ): Cây cầu
+Tunnel (ˈtʌnl): Đường hầm
+Corner (ˈkɔːnə): Góc phố
+Intersection (ˌɪntəˈsɛkʃən): Ngã tư
+Roundabout (ˈraʊndəbaʊt): Bùng binh
+Traffic (ˈtræfɪk): Giao thông
+Traffic light (ˈtræfɪk laɪt): Đèn giao thông
+Sign (saɪn): Biển báo
+Station (ˈsteɪʃən): Nhà ga
+Stop (stɒp): Trạm dừng
+Airport (ˈeəpɔːt): Sân bay
+Port (pɔːt): Cảng biển
+Harbor (ˈhɑːbə): Bến cảng
+Garage (ˈgærɑːʒ): Gara để xe
+Parking (ˈpɑːkɪŋ): Bãi đỗ xe
+Ticket (ˈtɪkɪt): Vé
+Pass (pɑːs): Thẻ lên xe/máy bay
+Fare (feə): Tiền vé xe
+Passport (ˈpɑːspɔːt): Hộ chiếu
+Visa (ˈviːzə): Thị thực
+Luggage (ˈlʌgɪʤ): Hành lý (không đếm được)
+Baggage (ˈbægɪʤ): Hành lý
+Suitcase (ˈsjuːtkeɪs): Vali
+Bag (bæg): Túi xách
+Passenger (ˈpæsɪnʤə): Hành khách
+Driver (ˈdraɪvə): Tài xế
+Pilot (ˈpaɪlət): Phi công
+Flight attendant (flaɪt əˈtɛndənt): Tiếp viên hàng không
+Captain (ˈkæptɪn): Thuyền trưởng, cơ trưởng
+Pedestrian (pɪˈdɛstrɪən): Người đi bộ
+Ride (raɪd): Chuyến đi (xe, thú)
+Drive (draɪv): Lái xe
+Fly (flaɪ): Bay
+Sail (seɪl): Đi thuyền
+Travel (ˈtrævl): Du lịch, đi lại
+Journey (ˈʤɜːni): Hành trình (dài)
+Trip (trɪp): Chuyến đi (ngắn)
+Tour (tʊə): Chuyến du lịch vòng quanh
+Flight (flaɪt): Chuyến bay
+Route (ruːt): Tuyến đường
+Direction (dɪˈrɛkʃən): Hướng đi
+Map (mæp): Bản đồ
+Location (ləʊˈkeɪʃən): Vị trí
+Destination (ˌdɛstɪˈneɪʃən): Điểm đến
+Distance (ˈdɪstəns): Khoảng cách
+Speed (spiːd): Tốc độ
+Fast (fɑːst): Nhanh
+Quick (kwɪk): Nhanh chóng
+Slow (sləʊ): Chậm
+Engine (ˈɛnʤɪn): Động cơ (xe cộ)
+Wheel (wiːl): Bánh xe, vô lăng
+Tire (ˈtaɪə): Lốp xe
+Brake (breɪk): Phanh xe
+Seat (siːt): Chỗ ngồi
+Belt (bɛlt): Dây an toàn
+Mirror (ˈmɪrə): Gương chiếu hậu
+Window (ˈwɪndəʊ): Cửa kính xe
+Door (dɔː): Cửa xe
+Fuel (fjʊəl): Nhiên liệu
+Gas (gæs): Xăng (Mỹ)
+Petrol (ˈpɛtrəl): Xăng (Anh)
+Oil (ɔɪl): Dầu nhớt
+Battery (ˈbætəri): Bình ắc quy
+Accident (ˈæksɪdənt): Tai nạn
+Crash (kræʃ): Sự va chạm
+Jam (ʤæm): Tắc nghẽn
+Delay (dɪˈleɪ): Sự chậm trễ
+Cancel (ˈkænsəl): Hủy bỏ
+Arrive (əˈraɪv): Tới nơi
+Depart (dɪˈpɑːt): Khởi hành
+Leave (liːv): Rời đi
+Board (bɔːd): Lên (tàu, xe, máy bay)
+Land (lænd): Hạ cánh
+Takeoff (ˈteɪkɒf): Cất cánh
+Stop (stɒp): Dừng lại
+Park (pɑːk): Đỗ xe
+Wait (weɪt): Chờ đợi
+Catch (kæʧ): Bắt kịp (xe)
+Miss (mɪs): Lỡ (chuyến)
+Follow (ˈfɒləʊ): Đi theo
+Turn (tɜːn): Rẽ
+Cross (krɒs): Băng qua
+Walk (wɔːk): Đi bộ
+Run (rʌn): Chạy
+Hurry (ˈhʌri): Vội vã
+Rush (rʌʃ): Lao đi
+Commute (kəˈmjuːt): Đi làm xa hàng ngày
+Direct (dɪˈrɛkt): Trực tiếp
+Straight (streɪt): Thẳng
+Left (lɛft): Trái
+Right (raɪt): Phải
+North (nɔːθ): Hướng Bắc
+South (saʊθ): Hướng Nam
+East (iːst): Hướng Đông
+West (wɛst): Hướng Tây
+Front (frʌnt): Phía trước
+Back (bæk): Phía sau
+Near (nɪə): Gần
+Far (fɑː): Xa
+Close (kləʊs): Gần kề
+Away (əˈweɪ): Xa cách
+Platform (ˈplætfɔːm): Sân ga
+Track (træk): Đường ray
+Carriage (ˈkærɪʤ): Toa tàu
+Cruise (kruːz): Chuyến du ngoạn trên biển
+Custom (ˈkʌstəm): Hải quan
+Security (sɪˈkjʊərɪti): An ninh
+Check-in (ʧɛk-ɪn): Đăng ký thủ tục
+Check-out (ʧɛk-aʊt): Trả phòng/rời đi
+Guide (gaɪd): Hướng dẫn viên
+Tourist (ˈtʊərɪst): Khách du lịch
+Visitor (ˈvɪzɪtə): Khách tham quan
+Abroad (əˈbrɔːd): Nước ngoài
+Foreign (ˈfɒrɪn): Ngoại quốc
+Return (rɪˈtɜːn): Trở về
+Health (hɛlθ): Sức khỏe
+Body (ˈbɒdi): Cơ thể
+Head (hɛd): Cái đầu
+Face (feɪs): Khuôn mặt
+Eye (aɪ): Mắt
+Ear (ɪə): Tai
+Nose (nəʊz): Mũi
+Mouth (maʊθ): Miệng
+Tooth (tuːθ): Răng (số ít)
+Teeth (tiːθ): Răng (số nhiều)
+Lip (lɪp): Môi
+Tongue (tʌŋ): Lưỡi
+Hair (heə): Tóc
+Neck (nɛk): Cổ
+Shoulder (ˈʃəʊldə): Bờ vai
+Arm (ɑːm): Cánh tay
+Hand (hænd): Bàn tay
+Finger (ˈfɪŋgə): Ngón tay
+Thumb (θʌm): Ngón tay cái
+Chest (ʧɛst): Ngực
+Stomach (ˈstʌmək): Dạ dày, bụng
+Belly (ˈbɛli): Bụng
+Back (bæk): Cái lưng
+Leg (lɛg): Cẳng chân
+Knee (niː): Đầu gối
+Foot (fʊt): Bàn chân (số ít)
+Feet (fiːt): Bàn chân (số nhiều)
+Toe (təʊ): Ngón chân
+Skin (skɪn): Da
+Blood (blʌd): Máu
+Heart (hɑːt): Trái tim
+Brain (breɪn): Não
+Bone (bəʊn): Xương
+Muscle (ˈmʌsl): Cơ bắp
+Lung (lʌŋ): Lá phổi
+Liver (ˈlɪvə): Lá gan
+Kidney (ˈkɪdni): Quả thận
+Vein (veɪn): Tĩnh mạch
+Throat (θrəʊt): Cổ họng
+Chin (ʧɪn): Cằm
+Cheek (ʧiːk): Má
+Eyebrow (ˈaɪbraʊ): Lông mày
+Eyelash (ˈaɪlæʃ): Lông mi
+Forehead (ˈfɒrɪd): Trán
+Wrist (rɪst): Cổ tay
+Ankle (ˈæŋkl): Mắt cá chân
+Heel (hiːl): Gót chân
+Elbow (ˈɛlbəʊ): Khuỷu tay
+Nail (neɪl): Móng tay/chân
+Skeleton (ˈskɛlɪtn): Bộ xương
+Skull (skʌl): Hộp sọ
+Hospital (ˈhɒspɪtl): Bệnh viện
+Clinic (ˈklɪnɪk): Phòng khám
+Pharmacy (ˈfɑːməsi): Hiệu thuốc
+Drugstore (ˈdrʌgstɔː): Cửa hàng thuốc
+Doctor (ˈdɒktə): Bác sĩ
+Nurse (nɜːs): Y tá
+Patient (ˈpeɪʃənt): Bệnh nhân
+Surgeon (ˈsɜːʤən): Bác sĩ phẫu thuật
+Dentist (ˈdɛntɪst): Nha sĩ
+Pharmacist (ˈfɑːməsɪst): Dược sĩ
+Ambulance (ˈæmbjʊləns): Xe cứu thương
+Ward (wɔːd): Phòng bệnh
+Emergency (ɪˈmɜːʤənsi): Tình trạng khẩn cấp
+Surgery (ˈsɜːʤəri): Phẫu thuật
+Operation (ˌɒpəˈreɪʃən): Ca mổ
+Disease (dɪˈziːz): Căn bệnh
+Illness (ˈɪlnɪs): Sự ốm yếu
+Sickness (ˈsɪknɪs): Bệnh tật
+Pain (peɪn): Sự đau đớn
+Ache (eɪk): Cơn đau nhức
+Headache (ˈhɛdeɪk): Đau đầu
+Toothache (ˈtuːθeɪk): Đau răng
+Stomachache (ˈstʌməkeɪk): Đau bụng
+Backache (ˈbækeɪk): Đau lưng
+Fever (ˈfiːvə): Cơn sốt
+Cough (kɒf): Ho
+Cold (kəʊld): Cảm lạnh
+Flu (fluː): Cúm
+Virus (ˈvaɪərəs): Vi-rút
+Bacteria (bækˈtɪərɪə): Vi khuẩn
+Infection (ɪnˈfɛkʃən): Sự nhiễm trùng
+Symptom (ˈsɪmptəm): Triệu chứng
+Allergy (ˈæləʤi): Dị ứng
+Asthma (ˈæsmə): Bệnh hen suyễn
+Cancer (ˈkænsə): Bệnh ung thư
+Diabetes (ˌdaɪəˈbiːtiːz): Bệnh tiểu đường
+Rash (ræʃ): Phát ban
+Scar (skɑː): Vết sẹo
+Wound (wuːnd): Vết thương (hở)
+Injury (ˈɪnʤəri): Chấn thương
+Bruise (bruːz): Vết bầm tím
+Cut (kʌt): Vết cắt
+Bleeding (ˈbliːdɪŋ): Sự chảy máu
+Swelling (ˈswɛlɪŋ): Sự sưng tấy
+Burn (bɜːn): Vết bỏng
+Fracture (ˈfrækʧə): Vết rạn nứt (xương)
+Sprain (spreɪn): Sự bong gân
+Poison (ˈpɔɪzn): Chất độc
+Nausea (ˈnɔːzɪə): Sự buồn nôn
+Vomiting (ˈvɒmɪtɪŋ): Sự nôn mửa
+Diarrhea (ˌdaɪəˈrɪə): Bệnh tiêu chảy
+Constipation (ˌkɒnstɪˈpeɪʃən): Chứng táo bón
+Dizziness (ˈdɪzɪnɪs): Sự chóng mặt
+Fatigue (fəˈtiːg): Sự mệt mỏi rã rời
+Medicine (ˈmɛdsɪn): Thuốc
+Drug (drʌg): Thuốc, ma túy
+Pill (pɪl): Viên thuốc (tròn)
+Tablet (ˈtæblɪt): Viên thuốc (nén)
+Capsule (ˈkæpsjuːl): Viên nang
+Syrup (ˈsɪrəp): Thuốc nước, si-rô
+Prescription (prɪsˈkrɪpʃən): Đơn thuốc
+Dose (dəʊs): Liều lượng
+Injection (ɪnˈʤɛkʃən): Mũi tiêm
+Vaccine (ˈvæksiːn): Vắc-xin
+Bandage (ˈbændɪʤ): Băng gạc
+Plaster (ˈplɑːstə): Băng dán y tế
+Wheelchair (ˈwiːlʧeə): Xe lăn
+Crutch (krʌʧ): Cái nạng
+Cure (kjʊə): Cách chữa trị
+Treatment (ˈtriːtmənt): Sự điều trị
+Therapy (ˈθɛrəpi): Liệu pháp
+Remedy (ˈrɛmɪdi): Phương thuốc
+Checkup (ˈʧɛkʌp): Cuộc kiểm tra sức khỏe
+Healthy (ˈhɛlθi): Khỏe mạnh
+Sick (sɪk): Ốm, bệnh
+Ill (ɪl): Ốm
+Weak (wiːk): Yếu đuối
+Strong (strɒŋ): Khỏe mạnh, mạnh mẽ
+Fit (fɪt): Sung sức, cân đối
+Blind (blaɪnd): Mù, khiếm thị
+Deaf (dɛf): Điếc, khiếm thính
+Dumb (dʌm): Câm
+Alive (əˈlaɪv): Còn sống
+Dead (dɛd): Đã chết
+Breathe (briːð): Hít thở
+Swallow (ˈswɒləʊ): Nuốt
+Chew (ʧuː): Nhai
+Digest (dɪˈʤɛst): Tiêu hóa
+Heal (hiːl): Lành bệnh
+Recover (rɪˈkʌvə): Hồi phục
+Suffer (ˈsʌfə): Chịu đựng
+Hurt (hɜːt): Làm đau, bị đau
+Bleed (bliːd): Chảy máu
+Sweat (swɛt): Đổ mồ hôi
+Shiver (ˈʃɪvə): Run rẩy
+Sneeze (sniːz): Hắt hơi
+Yawn (jɔːn): Ngáp
+Faint (feɪnt): Ngất xỉu
+Exercise (ˈɛksəsaɪz): Tập thể dục
+Wake (weɪk): Thức dậy
+Sleep (sliːp): Ngủ
+Eat (iːt): Ăn
+Drink (drɪŋk): Uống
+Wash (wɒʃ): Rửa, giặt
+Brush (brʌʃ): Chải (răng, tóc)
+Dress (drɛs): Mặc đồ
+Cook (kʊk): Nấu ăn
+Clean (kliːn): Dọn dẹp
+Watch (wɒʧ): Xem
+Listen (ˈlɪsn): Nghe
+Read (riːd): Đọc
+Walk (wɔːk): Đi bộ
+Run (rʌn): Chạy
+Stand (stænd): Đứng
+Sit (sɪt): Ngồi
+Jump (ʤʌmp): Nhảy
+Talk (tɔːk): Nói chuyện
+Speak (spiːk): Lên tiếng, nói
+Say (seɪ): Nói ra
+Tell (tɛl): Kể, bảo
+Ask (ɑːsk): Hỏi
+Answer (ˈɑːnsə): Trả lời
+Call (kɔːl): Gọi điện
+Work (wɜːk): Làm việc
 Play (pleɪ): Chơi
 Buy (baɪ): Mua
-New (njuː): Mới
-Dress (drɛs): Chân váy
-Yesterday (ˈjɛstədeɪ): Hôm qua
+Sell (sɛl): Bán
+Pay (peɪ): Trả tiền
+Take (teɪk): Lấy, cầm
 Give (gɪv): Cho, tặng
-Doctor (ˈdɒktə): Bác sĩ
-Hope (həʊp): Hy vọng, mong
-See (siː): Gặp
-Soon (suːn): Sớm
-Live (lɪv): Sống
-City (ˈsɪti): Thành phố
-Walk (wɔːk): Đi bộ
-Street (striːt): Đường phố
-Rain (reɪn): Mưa
-Smile (smaɪl): Cười
-Clothes shop (kləʊðz ʃɒp): Cửa hàng quần áo
-Listen (ˈlɪsn): Nghe
-Music (ˈmjuːzɪk): Âm nhạc
-Football (ˈfʊtbɔːl): Bóng đá
-Lift (lɪft): Sự đi nhờ xe
-Teach (tiːʧ): Dạy
-Consider (kənˈsɪdə): Xem xét
-Artist (ˈɑːtɪst): Nghệ sĩ
-Tired (ˈtaɪəd): Mệt mỏi
-Know (nəʊ): Biết
-Help (hɛlp): Giúp đỡ
-Housework (ˈhaʊswɜːk): Việc nhà
-Come (kʌm): Đến
-England (ˈɪŋglənd): Nước Anh
-Parent (ˈpeərənt): Bố mẹ
-Bike (baɪk): Xe đạp
-Build (bɪld): Xây dựng
-Sand castle (sænd ˈkɑːsl): Lâu đài cát
-School (skuːl): Trường học
-Surprised (səˈpraɪzd): Ngạc nhiên
-Meat (miːt): Thịt
-Study (ˈstʌdi): Học
-Cook (kʊk): Nấu ăn
-Get up (gɛt ʌp): Ngủ dậy
-Morning (ˈmɔːnɪŋ): Buổi sáng
-Summer (ˈsʌmə): Mùa hè
-Picnic (ˈpɪknɪk): Buổi dã ngoại
-Dinner (ˈdɪnə): Bữa tối
-Healthy (ˈhɛlθi): Tốt cho sức khỏe
-Beach (biːʧ): Bãi biển
-Talk (tɔːk): Nói chuyện
-Town (taʊn): Thị trấn
-Meet (miːt): Gặp gỡ
-Again (əˈgɛn): Một lần nữa
-Friend (frɛnd): Bạn bè
-Milk (mɪlk): Sữa
-Coffee (ˈkɒfi): Cà phê
-Bottle (ˈbɒtl): Chai, lọ
-Book (bʊk): Sách
-Boy (bɔɪ): Cậu bé
-Tall (tɔːl): Cao
-Sky (skaɪ): Bầu trời
-Bicycle (ˈbaɪsɪkl): Xe đạp
-Happiness (ˈhæpinəs): Hạnh phúc
-Peace (piːs): Hòa bình
-Group (gruːp): Nhóm
-Family (ˈfæmɪli): Gia đình
-Tomato (təˈmɑːtəʊ): Cà chua
-Party (ˈpɑːti): Bữa tiệc
-Wife (waɪf): Vợ
-Calf (kɑːf): Bê (con bò con)
-Life (laɪf): Cuộc sống
-Thief (θiːf): Kẻ trộm
-Roof (ruːf): Mái nhà
-Proof (pruːf): Bằng chứng
-Child (ʧaɪld): Trẻ em
-Man (mæn): Đàn ông
-Person (ˈpɜːsn): Con người
-Woman (ˈwʊmən): Phụ nữ
-Mouse (maʊs): Con chuột
-Goose (guːs): Con ngỗng
-Tooth (tuːθ): Cái răng
-Foot (fʊt): Bàn chân
-Craft (krɑːft): Thủ công
-Aircraft (ˈeəkrɑːft): Máy bay
-Clothes (kləʊðz): Quần áo
-Police (pəˈliːs): Cảnh sát
-Scissors (ˈsɪzəz): Cái kéo
-Pants (pænts): Cái quần dài
-Trousers (ˈtraʊzəz): Quần âu dài
-News (njuːz): Tin tức
-Mumps (mʌmps): Bệnh quai bị
-Billiards (ˈbɪliədz): Bi-a
-Goods (gʊdz): Hàng hóa
-Teacher (ˈtiːʧə): Giáo viên
-Classroom (ˈklɑːsruːm): Lớp học
-Without (wɪˈðaʊt): Không có
-Table (ˈteɪbl): Cái bàn
-Behind (bɪˈhaɪnd): Phía sau
-Seem (siːm): Dường như
-Asleep (əˈsliːp): Ngủ
-Pen (pen): Cây bút
-Hurt (hɜːt): Làm đau, làm tổn thương
-Take care of (teɪk keə əv): Chăm sóc
-Hat (hæt): Cái mũ
-Speak (spiːk): Nói
-President (ˈprezɪdənt): Chủ tịch, tổng thống
-Invite (ɪnˈvaɪt): Mời
-Rob (rɒb): Cướp
-Company (ˈkʌmpəni): Công ty
-Arrest (əˈrest): Bắt giữ
-Aunt (ɑːnt): Dì, cô
-Drive (draɪv): Lái xe
-Cost (kɒst): Có giá là, tốn
-Famous (ˈfeɪməs): Nổi tiếng
-Old (əʊld): Cũ, già
-Flower (ˈflaʊə): Hoa
-Answer (ˈɑːnsə): Câu trả lời
-Happy (ˈhæpi): Hạnh phúc
-Usually (ˈjuːʒuəli): Thường xuyên
-Borrow (ˈbɒrəʊ): Mượn
-Visit (ˈvɪzɪt): Thăm
-Story (ˈstɔːri): Câu chuyện
-Read (riːd): Đọc
-Problem (ˈprɒbləm): Vấn đề
-Show (ʃəʊ): Cho xem, chỉ cho
+Bring (brɪŋ): Mang đến
+Send (sɛnd): Gửi
+Receive (rɪˈsiːv): Nhận
 Find (faɪnd): Tìm thấy
-Hotel (həʊˈtel): Khách sạn
-Son (sʌn): Con trai
-Weekday (ˈwiːkdeɪ): Ngày trong tuần
-Bag (bæg): Túi
-House (haʊs): Ngôi nhà
-Coat (kəʊt): Áo khoác
-Computer (kəmˈpjuːtə): Máy tính
-Mirror (ˈmɪrə): Cái gương
-Hard (hɑːd): Chăm chỉ, vất vả
-Lunch (lʌnʧ): Bữa trưa
-Stop (stɒp): Dừng lại
-Break into (breɪk ˈɪntuː): Đột nhập
-Look after (lʊk ˈɑːftə): Chăm sóc
-Try (traɪ): Cố gắng, thử
-Position (pəˈzɪʃn): Vị trí, hoàn cảnh
-Light (laɪt): Ánh sáng, đèn
-Turn off (tɜːn ɒf): Tắt
-Sad (sæd): Buồn
-Empty (ˈempti): Trống rỗng
-Meeting (ˈmiːtɪŋ): Cuộc họp
-Impossible (ɪmˈpɒsəbl): Không thể
-Motorbike (ˈməʊtəbaɪk): Xe máy
-Worry (ˈwʌri): Lo lắng
-Lie (laɪ): Lời nói dối
-Hungry (ˈhʌŋgri): Đói
-Wrong (rɒŋ): Sai, không đúng
+Lose (luːz): Đánh mất
+Search (sɜːʧ): Tìm kiếm
+Open (ˈəʊpən): Mở
+Close (kləʊz): Đóng
+Push (pʊʃ): Đẩy
+Pull (pʊl): Kéo
+Hold (həʊld): Giữ, cầm
+Carry (ˈkæri): Mang vác
+Throw (θrəʊ): Ném
+Catch (kæʧ): Bắt lấy
+Help (hɛlp): Giúp đỡ
+Wait (weɪt): Chờ đợi
 Start (stɑːt): Bắt đầu
-Lovely (ˈlʌvli): Dễ thương
-Clearly (ˈklɪəli): Rõ ràng
-Frog (frɒg): Ếch
-Grandfather (ˈgrændˌfɑːðə): Ông
-Inside (ˌɪnˈsaɪd): Bên trong
-Hate (heɪt): Ghét
-Compare (kəmˈpeə): So sánh
-Future (ˈfjuːʧə): Tương lai
-Invent (ɪnˈvent): Phát minh
-Bookshop (ˈbʊkʃɒp): Hiệu sách
-Country (ˈkʌntri): Đất nước
-Hospital (ˈhɒspɪtl): Bệnh viện
-Terrible (ˈterəbl): Kinh khủng
-Pandemic (pænˈdemɪk): Đại dịch
-Hometown (ˈhəʊmtaʊn): Quê hương
-Green tea (griːn tiː): Trà xanh
-Locate (ləʊˈkeɪt): Được đặt ở vị trí
-Footballer (ˈfʊtbɔːlə): Cầu thủ bóng đá
-Carry (ˈkæri): Mang, chở
-Singer (ˈsɪŋə): Ca sĩ
-Dance (dɑːns): Nhảy múa
-Cold (kəʊld): Lạnh
-Photo (ˈfəʊtəʊ): Ảnh
-Interesting (ˈɪntrəstɪŋ): Thú vị
-Classmate (ˈklɑːsmeɪt): Bạn học cùng lớp
-Exercise (ˈeksəsaɪz): Bài tập
-In love with (ɪn lʌv wɪð): Yêu
-Grade (greɪd): Khối lớp
-College (ˈkɒlɪʤ): Trường đại học, cao đẳng
-Math (mæθ): Toán học
-History (ˈhɪstri): Lịch sử
-Course (kɔːs): Khóa học
-Campus (ˈkæmpəs): Khuôn viên trường
-Share (ʃeə): Chia sẻ, dùng chung
-Together (təˈgeðə): Cùng nhau
-High school (haɪ skuːl): Trường trung học
-Bring (brɪŋ): Mang lại, mang cho
-Sweet (swiːt): Kẹo
-Miss (mɪs): Nhớ, bỏ lỡ
-Information (ˌɪnfəˈmeɪʃn): Thông tin
-Language (ˈlæŋgwɪʤ): Ngôn ngữ
-Send (send): Gửi
-Registration form (ˌreʤɪˈstreɪʃn fɔːm): Mẫu đăng ký
-Place (pleɪs): Chỗ, nơi
-Evening (ˈiːvnɪŋ): Buổi tối
-Afternoon (ˌɑːftəˈnuːn): Buổi trưa
-Full (fʊl): Đầy, kín
-Reporter (rɪˈpɔːtə): Phóng viên
-Staff (stɑːf): Nhân viên
-Letter (ˈletə): Bức thư
-Practice (ˈpræktɪs): Việc thực hành, luyện tập
-Different (ˈdɪfrənt): Khác nhau
-Apartment (əˈpɑːtmənt): Căn hộ
-Dancer (ˈdɑːnsə): Vũ công
-Friendly (ˈfrendli): Thân thiện
+Stop (stɒp): Dừng lại
+Finish (ˈfɪnɪʃ): Hoàn thành
+Go (gəʊ): Đi
+Come (kʌm): Đến
+Arrive (əˈraɪv): Tới nơi
+Depart (dɪˈpɑːt): Khởi hành
+Leave (liːv): Rời đi
+Return (rɪˈtɜːn): Trở lại
+Stay (steɪ): Ở lại
+Fall (fɔːl): Rơi, ngã
+Climb (klaɪm): Leo trèo
+Crawl (krɔːl): Bò, trườn
+Slide (slaɪd): Trượt
+Slip (slɪp): Trượt chân
+Drop (drɒp): Làm rơi
+Lift (lɪft): Nâng lên
+Rise (raɪz): Mọc lên, đứng lên
+Sink (sɪŋk): Chìm
+Float (fləʊt): Nổi
+Move (muːv): Di chuyển
+Turn (tɜːn): Quay, rẽ
+Spin (spɪn): Xoay tròn
+Roll (rəʊl): Lăn
+Shake (ʃeɪk): Lắc
+Bend (bɛnd): Uốn cong, cúi
+Stretch (strɛʧ): Vươn vai, kéo giãn
+Point (pɔɪnt): Chỉ trỏ
+Kick (kɪk): Đá
+Punch (pʌnʧ): Đấm
+Hit (hɪt): Đánh, đập
+Strike (straɪk): Tấn công, đánh
+Touch (tʌʧ): Chạm vào
+See (siː): Nhìn thấy
+Look (lʊk): Nhìn
+Glance (glɑːns): Liếc nhìn
+Stare (steə): Nhìn chằm chằm
+Hear (hɪə): Nghe thấy
+Smell (smɛl): Ngửi
+Taste (teɪst): Nếm
+Feel (fiːl): Cảm thấy
+Think (θɪŋk): Suy nghĩ
+Know (nəʊ): Biết
+Believe (bɪˈliːv): Tin tưởng
+Guess (gɛs): Đoán
+Wonder (ˈwʌndə): Tự hỏi
 Understand (ˌʌndəˈstænd): Hiểu
-Exciting (ɪkˈsaɪtɪŋ): Thú vị
-Expensive (ɪkˈspensɪv): Đắt
-Subway (ˈsʌbweɪ): Tàu điện ngầm
-Difficult (ˈdɪfɪkəlt): Khó
+Remember (rɪˈmɛmbə): Nhớ lại
+Forget (fəˈgɛt): Quên
+Learn (lɜːn): Học
+Study (ˈstʌdi): Nghiên cứu, học
+Teach (tiːʧ): Dạy
+Explain (ɪksˈpleɪn): Giải thích
+Decide (dɪˈsaɪd): Quyết định
+Choose (ʧuːz): Chọn lựa
+Plan (plæn): Lên kế hoạch
+Create (kriˈeɪt): Tạo ra
+Build (bɪld): Xây dựng
+Destroy (dɪsˈtrɔɪ): Phá hủy
+Break (breɪk): Làm vỡ, bẻ gãy
+Fix (fɪks): Sửa chữa
+Meet (miːt): Gặp gỡ
+Greet (griːt): Chào hỏi
+Bow (baʊ): Cúi chào
+Hug (hʌg): Ôm
+Kiss (kɪs): Hôn
+Smile (smaɪl): Mỉm cười
+Laugh (lɑːf): Cười to
+Cry (kraɪ): Khóc
+Shout (ʃaʊt): Hét lên
+Whisper (ˈwɪspə): Thì thầm
+Argue (ˈɑːgjuː): Tranh cãi
+Agree (əˈgriː): Đồng ý
+Disagree (ˌdɪsəˈgriː): Không đồng ý
+Apologize (əˈpɒləʤaɪz): Xin lỗi
+Forgive (fəˈgɪv): Tha thứ
+Thank (θæŋk): Cảm ơn
+Welcome (ˈwɛlkəm): Chào mừng
+Invite (ɪnˈvaɪt): Mời
+Share (ʃeə): Chia sẻ
+Borrow (ˈbɒrəʊ): Mượn
+Lend (lɛnd): Cho mượn
+Promise (ˈprɒmɪs): Hứa
+Warn (wɔːn): Cảnh báo
+Advise (ədˈvaɪz): Khuyên bảo
 Use (juːz): Sử dụng
-Cheap (ʧiːp): Rẻ
-Run (rʌn): Chạy
-Meal (miːl): Bữa ăn
-Garden (ˈgɑːdn): Khu vườn
-Kite (kaɪt): Cái diều
-Question (ˈkwesʧən): Câu hỏi
-River (ˈrɪvə): Con sông
-Long (lɒŋ): Dài
-Wide (waɪd): Rộng
-Voluntary (ˈvɒləntri): Tự nguyện
-Accident (ˈæksɪdənt): Tai nạn
-Clean (kliːn): Lau dọn, làm sạch
-Twice a day (twaɪs ə deɪ): Hai lần một ngày
-Fridge (frɪʤ): Tủ lạnh
-Smoke (sməʊk): Hút thuốc
-Cigarette (ˌsɪgəˈret): Thuốc lá
-Housewife (ˈhaʊswaɪf): Nội trợ
-Knife (naɪf): Dao
-Arrange (əˈreɪnʤ): Sắp xếp
-Shelf (ʃelf): Cái kệ
-Repair (rɪˈpeə): Sửa chữa
-Over there (ˈəʊvə ðeə): Ở đằng kia
-Take part in (teɪk pɑːt ɪn): Tham gia
-Fall in love with (fɔːl ɪn lʌv wɪð): Yêu ai đó
+Try (traɪ): Thử, cố gắng
+Show (ʃəʊ): Cho thấy, chỉ ra
+Hide (haɪd): Giấu, trốn
+Appear (əˈpɪə): Xuất hiện
+Disappear (ˌdɪsəˈpɪə): Biến mất
+Change (ʧeɪnʤ): Thay đổi
+Keep (kiːp): Giữ lại
+Let (lɛt): Để cho, cho phép
+Make (meɪk): Làm, tạo ra
+Do (duː): Làm, thực hiện
+Have (hæv): Có
+Get (gɛt): Lấy, nhận được
+Become (bɪˈkʌm): Trở nên
+Seem (siːm): Có vẻ như
+Need (niːd): Cần
+Want (wɒnt): Muốn
+Hope (həʊp): Hy vọng
+Happy (ˈhæpi): Hạnh phúc, vui vẻ
+Sad (sæd): Buồn bã
+Angry (ˈæŋgri): Tức giận
+Tired (ˈtaɪəd): Mệt mỏi
+Bored (bɔːd): Buồn chán
+Excited (ɪkˈsaɪtɪd): Hào hứng, phấn khích
+Scared (skeəd): Sợ hãi
+Surprised (səˈpraɪzd): Ngạc nhiên
+Confused (kənˈfjuːzd): Bối rối
+Relaxed (rɪˈlækst): Thư giãn
+Proud (praʊd): Tự hào
+Nervous (ˈnɜːvəs): Lo lắng, bồn chồn
+Lonely (ˈləʊnli): Cô đơn
+Jealous (ˈʤɛləs): Ghen tị
+Hopeful (ˈhəʊpfʊl): Tràn đầy hy vọng
+Shy (ʃaɪ): Nhút nhát, xấu hổ
+Guilty (ˈgɪlti): Cảm thấy có tội
+Shocked (ʃɒkt): Bị sốc
+Calm (kɑːm): Bình tĩnh
+Brave (breɪv): Dũng cảm
+Kind (kaɪnd): Tử tế
+Cruel (krʊəl): Độc ác
+Honest (ˈɒnɪst): Trung thực
+Polite (pəˈlaɪt): Lịch sự
+Rude (ruːd): Thô lỗ
+Lazy (ˈleɪzi): Lười biếng
+Active (ˈæktɪv): Năng động
+Smart (smɑːt): Thông minh
+Stupid (ˈstjuːpɪd): Ngốc nghếch
+Funny (ˈfʌni): Hài hước
+Serious (ˈsɪərɪəs): Nghiêm túc
+Friendly (ˈfrɛndli): Thân thiện
+Quiet (ˈkwaɪət): Trầm tính, yên lặng
+Loud (laʊd): Ồn ào, to tiếng
+Careful (ˈkeəfʊl): Cẩn thận
+Careless (ˈkeəlɪs): Bất cẩn
+Generous (ˈʤɛnərəs): Hào phóng
+Selfish (ˈsɛlfɪʃ): Ích kỷ
+Patient (ˈpeɪʃənt): Kiên nhẫn
+Crazy (ˈkreɪzi): Điên rồ
+Love (lʌv): Yêu, tình yêu
+Hate (heɪt): Ghét, sự căm ghét
+Like (laɪk): Thích
+Dislike (dɪsˈlaɪk): Không thích
+Joyful (ˈʤɔɪfʊl): Vui sướng
+Cheerful (ˈʧɪəfʊl): Vui tươi, phấn khởi
+Delighted (dɪˈlaɪtɪd): Rất hài lòng, vui vẻ
+Thrilled (θrɪld): Cực kỳ hào hứng
+Satisfied (ˈsætɪsfaɪd): Thỏa mãn, hài lòng
+Grateful (ˈgreɪtfʊl): Biết ơn
+Optimistic (ˌɒptɪˈmɪstɪk): Lạc quan
+Pessimistic (ˌpɛsɪˈmɪstɪk): Bi quan
+Miserable (ˈmɪzərəbl): Khốn khổ
+Depressed (dɪˈprɛst): Trầm cảm, tuyệt vọng
+Upset (ʌpˈsɛt): Buồn bực, thất vọng
+Disappointed (ˌdɪsəˈpɔɪntɪd): Thất vọng
+Frustrated (frʌsˈtreɪtɪd): Bực bội, nản lòng
+Annoyed (əˈnɔɪd): Bực mình, khó chịu
+Irritated (ˈɪrɪteɪtɪd): Tức tối, cáu kỉnh
+Furious (ˈfjʊərɪəs): Giận dữ, điên tiết
+Aggressive (əˈgrɛsɪv): Hung hăng
+Hostile (ˈhɒstaɪl): Thù địch
+Anxious (ˈæŋkʃəs): Lo âu, băn khoăn
+Worried (ˈwʌrɪd): Lo lắng
+Frightened (ˈfraɪtnd): Hoảng sợ
+Terrified (ˈtɛrɪfaɪd): Kinh hãi
+Panicked (ˈpænɪkt): Hoảng loạn
+Ashamed (əˈʃeɪmd): Xấu hổ (về lương tâm)
+Embarrassed (ɪmˈbærəst): Ngại ngùng, bối rối
+Humiliated (hju(ː)ˈmɪlɪeɪtɪd): Bị bẽ mặt, nhục nhã
+Awkward (ˈɔːkwəd): Lúng túng, gượng gạo
+Confident (ˈkɒnfɪdənt): Tự tin
+Arrogant (ˈærəgənt): Kiêu ngạo
+Vain (veɪn): Hão huyền, tự phụ
+Modest (ˈmɒdɪst): Khiêm tốn
+Humble (ˈhʌmbl): Nhún nhường
+Bold (bəʊld): Táo bạo
+Timid (ˈtɪmɪd): Rụt rè
+Cautious (ˈkɔːʃəs): Thận trọng
+Reckless (ˈrɛklɪs): Liều lĩnh
+Stubborn (ˈstʌbən): Bướng bỉnh
+Flexible (ˈflɛksəbl): Linh hoạt
+Loyal (ˈlɔɪəl): Trung thành
+Faithful (ˈfeɪθfʊl): Chung thủy
+Sincere (sɪnˈsɪə): Chân thành
+Fake (feɪk): Giả tạo
+Hypocritical (ˌhɪpəˈkrɪtɪkəl): Đạo đức giả
+Sensible (ˈsɛnsəbl): Khôn ngoan, hợp lý
+Sensitive (ˈsɛnsɪtɪv): Nhạy cảm
+Emotional (ɪˈməʊʃənl): Dễ xúc động
+Rational (ˈræʃənl): Có lý trí
+Logical (ˈlɒʤɪkəl): Hợp logic
+Creative (kri(ː)ˈeɪtɪv): Sáng tạo
+Imaginative (ɪˈmæʤɪnətɪv): Giàu trí tưởng tượng
+Dull (dʌl): Tẻ nhạt
+Boring (ˈbɔːrɪŋ): Nhàm chán
+Interesting (ˈɪntrɪstɪŋ): Thú vị
+Fascinating (ˈfæsɪneɪtɪŋ): Hấp dẫn, lôi cuốn
+Charming (ˈʧɑːmɪŋ): Quyến rũ, duyên dáng
+Attractive (əˈtræktɪv): Thu hút, lôi cuốn
+Ugly (ˈʌgli): Xấu xí
+Handsome (ˈhænsəm): Đẹp trai
+Beautiful (ˈbjuːtəfʊl): Xinh đẹp
+Cute (kjuːt): Dễ thương
+Gorgeous (ˈgɔːʤəs): Lộng lẫy, tuyệt đẹp
+Terrible (ˈtɛrəbl): Tồi tệ, khủng khiếp
+Horrible (ˈhɒrəbl): Đáng sợ, kinh khủng
+Wonderful (ˈwʌndəfʊl): Tuyệt vời
+Amazing (əˈmeɪzɪŋ): Kinh ngạc, tuyệt diệu
+Awesome (ˈɔːsəm): Tuyệt đỉnh
+Fantastic (fænˈtæstɪk): Vô cùng tuyệt vời
+Excellent (ˈɛksələnt): Xuất sắc
+Perfect (ˈpɜːfɪkt): Hoàn hảo
+Good (gʊd): Tốt
+Bad (bæd): Xấu, tồi
+Evil (ˈiːvl): Xấu xa, ác độc
+Wicked (ˈwɪkɪd): Độc ác
+Innocent (ˈɪnəsənt): Vô tội, ngây thơ
+Responsible (rɪsˈpɒnsəbl): Có trách nhiệm
+Irresponsible (ˌɪrɪsˈpɒnsəbl): Vô trách nhiệm
+Reliable (rɪˈlaɪəbl): Đáng tin cậy
+Trustworthy (ˈtrʌstˌwɜːði): Đáng tin
+Strict (strɪkt): Nghiêm khắc
+Lenient (ˈliːniənt): Khoan dung, dễ dãi
+Tolerant (ˈtɒlərənt): Khoan dung, vị tha
+Intolerant (ɪnˈtɒlərənt): Cố chấp, hẹp hòi
+Gentle (ˈʤɛntl): Dịu dàng, nhẹ nhàng
+Rough (rʌf): Thô bạo, cục cằn
+Tough (tʌf): Cứng rắn, khó khăn
+Energetic (ˌɛnəˈʤɛtɪk): Tràn đầy năng lượng
+Exhausted (ɪgˈzɔːstɪd): Kiệt sức
+Sleepy (ˈsliːpi): Buồn ngủ
+Awake (əˈweɪk): Tỉnh táo, thức giấc
+Alert (əˈlɜːt): Cảnh giác, lanh lợi
+Focused (ˈfəʊkəst): Tập trung
+Distracted (dɪsˈtræktɪd): Xao nhãng
+Curious (ˈkjʊərɪəs): Tò mò
+Inquisitive (ɪnˈkwɪzɪtɪv): Hay tọc mạch, dò hỏi
+Indifferent (ɪnˈdɪfrənt): Thờ ơ, lãnh đạm
+Apathetic (ˌæpəˈθɛtɪk): Lãnh đạm, vô cảm
+Sympathetic (ˌsɪmpəˈθɛtɪk): Đồng cảm
+Empathetic (ˌɛmpəˈθɛtɪk): Thấu cảm
+Compassionate (kəmˈpæʃənɪt): Giàu lòng thương xót
+Passionate (ˈpæʃənɪt): Đam mê, nhiệt huyết
+Ambitious (æmˈbɪʃəs): Có tham vọng
+Easygoing (ˈiːzɪˌgəʊɪŋ): Dễ tính
+Outgoing (aʊtˈgəʊɪŋ): Cởi mở, hướng ngoại
+Introverted (ˈɪntrəʊvɜːtɪd): Hướng nội
+Greedy (ˈgriːdi): Tham lam
+Stingy (ˈstɪnʤi): Keo kiệt
+Nature (ˈneɪʧə): Thiên nhiên
+Environment (ɪnˈvaɪərənmənt): Môi trường
+Earth (ɜːθ): Trái đất
+World (wɜːld): Thế giới
+Sun (sʌn): Mặt trời
+Moon (muːn): Mặt trăng
+Star (stɑː): Ngôi sao
+Sky (skaɪ): Bầu trời
+Space (speɪs): Không gian, vũ trụ
+Planet (ˈplænɪt): Hành tinh
+Cloud (klaʊd): Đám mây
+Rain (reɪn): Cơn mưa
+Wind (wɪnd): Gió
+Snow (snəʊ): Tuyết
+Storm (stɔːm): Cơn bão
+Thunder (ˈθʌndə): Sấm
+Lightning (ˈlaɪtnɪŋ): Tia chớp
+Weather (ˈwɛðə): Thời tiết
+Climate (ˈklaɪmɪt): Khí hậu
+Temperature (ˈtɛmprɪʧə): Nhiệt độ
+Heat (hiːt): Sức nóng
+Cold (kəʊld): Cái lạnh
+Breeze (briːz): Cơn gió nhẹ
+Hurricane (ˈhʌrɪkən): Bão cuồng phong
+Tornado (tɔːˈneɪdəʊ): Lốc xoáy
+Fog (fɒg): Sương mù
+Ice (aɪs): Băng
+Frost (frɒst): Sương giá
+Dew (djuː): Sương sớm
+Flood (flʌd): Lũ lụt
+Drought (draʊt): Hạn hán
+Earthquake (ˈɜːθkweɪk): Động đất
+Tsunami (tsuːˈnɑːmi): Sóng thần
+Volcano (vɒlˈkeɪnəʊ): Núi lửa
+Landscape (ˈlænskeɪp): Phong cảnh
+Scenery (ˈsiːnəri): Cảnh vật
+Mountain (ˈmaʊntɪn): Ngọn núi
+Hill (hɪl): Ngọn đồi
+Valley (ˈvæli): Thung lũng
+Cave (keɪv): Hang động
+Cliff (klɪf): Vách đá
+Rock (rɒk): Tảng đá
+Stone (stəʊn): Hòn đá
+Pebble (ˈpɛbl): Hòn sỏi
+Sand (sænd): Cát
+Dirt (dɜːt): Đất bụi
+Soil (sɔɪl): Đất trồng
+Mud (mʌd): Bùn
+Dust (dʌst): Bụi
+Land (lænd): Đất liền
+Ground (graʊnd): Mặt đất
+Field (fiːld): Cánh đồng
+Meadow (ˈmɛdəʊ): Đồng cỏ
+Grass (grɑːs): Cỏ
+Tree (triː): Cái cây
+Forest (ˈfɒrɪst): Khu rừng
+Wood (wʊd): Rừng cây, gỗ
+Jungle (ˈʤʌŋgl): Rừng rậm nhiệt đới
+Plant (plɑːnt): Thực vật, cây cối
+Bush (bʊʃ): Bụi cây
+Shrub (ʃrʌb): Cây bụi
+Leaf (liːf): Chiếc lá
+Branch (brɑːnʧ): Cành cây
+Root (ruːt): Rễ cây
+Trunk (trʌŋk): Thân cây
+Flower (ˈflaʊə): Bông hoa
+Blossom (ˈblɒsəm): Hoa (của cây ăn quả)
+Bud (bʌd): Nụ hoa
+Seed (siːd): Hạt giống
+Fruit (fruːt): Quả
+Berry (ˈbɛri): Quả mọng
+Nut (nʌt): Hạt, quả hạch
+Water (ˈwɔːtə): Nước
+Ocean (ˈəʊʃən): Đại dương
+Sea (siː): Biển
+Coast (kəʊst): Bờ biển
+Shore (ʃɔː): Bờ biển, bờ hồ
+Beach (biːʧ): Bãi biển
+Wave (weɪv): Cơn sóng
+Tide (taɪd): Thủy triều
+River (ˈrɪvə): Dòng sông
+Stream (striːm): Dòng suối
+Lake (leɪk): Cái hồ
+Pond (pɒnd): Cái ao
+Waterfall (ˈwɔːtəfɔːl): Thác nước
+Island (ˈaɪlənd): Hòn đảo
+Peninsula (pɪˈnɪnsjʊlə): Bán đảo
+Desert (ˈdɛzət): Sa mạc
+Oasis (əʊˈeɪsɪs): Ốc đảo
+Swamp (swɒmp): Đầm lầy
+Animal (ˈænɪməl): Động vật
+Creature (ˈkriːʧə): Sinh vật
+Pet (pɛt): Thú cưng
+Dog (dɒg): Con chó
+Puppy (ˈpʌpi): Chó con
+Cat (kæt): Con mèo
+Kitten (ˈkɪtn): Mèo con
+Mouse (maʊs): Con chuột
+Rat (ræt): Chuột cống
+Rabbit (ˈræbɪt): Con thỏ
+Bird (bɜːd): Con chim
+Eagle (ˈiːgl): Đại bàng
+Hawk (hɔːk): Diều hâu
+Owl (aʊl): Con cú
+Pigeon (ˈpɪʤɪn): Chim bồ câu
+Duck (dʌk): Con vịt
+Chicken (ˈʧɪkɪn): Con gà
+Hen (hɛn): Gà mái
+Rooster (ˈruːstə): Gà trống
+Goose (guːs): Ngỗng
+Turkey (ˈtɜːki): Gà tây
+Pig (pɪg): Con lợn
+Cow (kaʊ): Con bò
+Bull (bʊl): Bò tót
+Horse (hɔːs): Con ngựa
+Sheep (ʃiːp): Con cừu
+Goat (gəʊt): Con dê
+Donkey (ˈdɒŋki): Con lừa
+Deer (dɪə): Con hươu, nai
+Bear (beə): Con gấu
+Lion (ˈlaɪən): Sư tử
+Tiger (ˈtaɪgə): Con hổ
+Elephant (ˈɛlɪfənt): Con voi
+Monkey (ˈmʌŋki): Con khỉ
+Ape (eɪp): Vượn
+Gorilla (gəˈrɪlə): Khỉ đột
+Giraffe (ʤɪˈrɑːf): Hươu cao cổ
+Zebra (ˈziːbrə): Ngựa vằn
+Kangaroo (ˌkæŋgəˈruː): Chuột túi
+Fox (fɒks): Con cáo
+Wolf (wʊlf): Chó sói
+Snake (sneɪk): Con rắn
+Crocodile (ˈkrɒkədaɪl): Cá sấu
+Turtle (ˈtɜːtl): Con rùa
+Frog (frɒg): Con ếch
+Toad (təʊd): Con cóc
+Fish (fɪʃ): Con cá
+Shark (ʃɑːk): Cá mập
+Whale (weɪl): Cá voi
+Dolphin (ˈdɒlfɪn): Cá heo
+Crab (kræb): Con cua
+Shrimp (ʃrɪmp): Con tôm
+Octopus (ˈɒktəpʊs): Bạch tuộc
+Insect (ˈɪnsɛkt): Côn trùng
+Bug (bʌg): Con bọ
+Ant (ænt): Con kiến
+Bee (biː): Con ong
+Butterfly (ˈbʌtəflaɪ): Con bướm
+Spider (ˈspaɪdə): Con nhện
+Fly (flaɪ): Con ruồi
+Mosquito (məsˈkiːtəʊ): Con muỗi
+Worm (wɜːm): Con giun
+Snail (sneɪl): Ốc sên

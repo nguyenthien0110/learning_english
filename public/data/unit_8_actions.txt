@@ -1,0 +1,150 @@
+Wake (weɪk): Thức dậy
+Sleep (sliːp): Ngủ
+Eat (iːt): Ăn
+Drink (drɪŋk): Uống
+Wash (wɒʃ): Rửa, giặt
+Brush (brʌʃ): Chải (răng, tóc)
+Dress (drɛs): Mặc đồ
+Cook (kʊk): Nấu ăn
+Clean (kliːn): Dọn dẹp
+Watch (wɒʧ): Xem
+Listen (ˈlɪsn): Nghe
+Read (riːd): Đọc
+Walk (wɔːk): Đi bộ
+Run (rʌn): Chạy
+Stand (stænd): Đứng
+Sit (sɪt): Ngồi
+Jump (ʤʌmp): Nhảy
+Talk (tɔːk): Nói chuyện
+Speak (spiːk): Lên tiếng, nói
+Say (seɪ): Nói ra
+Tell (tɛl): Kể, bảo
+Ask (ɑːsk): Hỏi
+Answer (ˈɑːnsə): Trả lời
+Call (kɔːl): Gọi điện
+Work (wɜːk): Làm việc
+Play (pleɪ): Chơi
+Buy (baɪ): Mua
+Sell (sɛl): Bán
+Pay (peɪ): Trả tiền
+Take (teɪk): Lấy, cầm
+Give (gɪv): Cho, tặng
+Bring (brɪŋ): Mang đến
+Send (sɛnd): Gửi
+Receive (rɪˈsiːv): Nhận
+Find (faɪnd): Tìm thấy
+Lose (luːz): Đánh mất
+Search (sɜːʧ): Tìm kiếm
+Open (ˈəʊpən): Mở
+Close (kləʊz): Đóng
+Push (pʊʃ): Đẩy
+Pull (pʊl): Kéo
+Hold (həʊld): Giữ, cầm
+Carry (ˈkæri): Mang vác
+Throw (θrəʊ): Ném
+Catch (kæʧ): Bắt lấy
+Help (hɛlp): Giúp đỡ
+Wait (weɪt): Chờ đợi
+Start (stɑːt): Bắt đầu
+Stop (stɒp): Dừng lại
+Finish (ˈfɪnɪʃ): Hoàn thành
+Go (gəʊ): Đi
+Come (kʌm): Đến
+Arrive (əˈraɪv): Tới nơi
+Depart (dɪˈpɑːt): Khởi hành
+Leave (liːv): Rời đi
+Return (rɪˈtɜːn): Trở lại
+Stay (steɪ): Ở lại
+Fall (fɔːl): Rơi, ngã
+Climb (klaɪm): Leo trèo
+Crawl (krɔːl): Bò, trườn
+Slide (slaɪd): Trượt
+Slip (slɪp): Trượt chân
+Drop (drɒp): Làm rơi
+Lift (lɪft): Nâng lên
+Rise (raɪz): Mọc lên, đứng lên
+Sink (sɪŋk): Chìm
+Float (fləʊt): Nổi
+Move (muːv): Di chuyển
+Turn (tɜːn): Quay, rẽ
+Spin (spɪn): Xoay tròn
+Roll (rəʊl): Lăn
+Shake (ʃeɪk): Lắc
+Bend (bɛnd): Uốn cong, cúi
+Stretch (strɛʧ): Vươn vai, kéo giãn
+Point (pɔɪnt): Chỉ trỏ
+Kick (kɪk): Đá
+Punch (pʌnʧ): Đấm
+Hit (hɪt): Đánh, đập
+Strike (straɪk): Tấn công, đánh
+Touch (tʌʧ): Chạm vào
+See (siː): Nhìn thấy
+Look (lʊk): Nhìn
+Glance (glɑːns): Liếc nhìn
+Stare (steə): Nhìn chằm chằm
+Hear (hɪə): Nghe thấy
+Smell (smɛl): Ngửi
+Taste (teɪst): Nếm
+Feel (fiːl): Cảm thấy
+Think (θɪŋk): Suy nghĩ
+Know (nəʊ): Biết
+Believe (bɪˈliːv): Tin tưởng
+Guess (gɛs): Đoán
+Wonder (ˈwʌndə): Tự hỏi
+Understand (ˌʌndəˈstænd): Hiểu
+Remember (rɪˈmɛmbə): Nhớ lại
+Forget (fəˈgɛt): Quên
+Learn (lɜːn): Học
+Study (ˈstʌdi): Nghiên cứu, học
+Teach (tiːʧ): Dạy
+Explain (ɪksˈpleɪn): Giải thích
+Decide (dɪˈsaɪd): Quyết định
+Choose (ʧuːz): Chọn lựa
+Plan (plæn): Lên kế hoạch
+Create (kriˈeɪt): Tạo ra
+Build (bɪld): Xây dựng
+Destroy (dɪsˈtrɔɪ): Phá hủy
+Break (breɪk): Làm vỡ, bẻ gãy
+Fix (fɪks): Sửa chữa
+Meet (miːt): Gặp gỡ
+Greet (griːt): Chào hỏi
+Bow (baʊ): Cúi chào
+Hug (hʌg): Ôm
+Kiss (kɪs): Hôn
+Smile (smaɪl): Mỉm cười
+Laugh (lɑːf): Cười to
+Cry (kraɪ): Khóc
+Shout (ʃaʊt): Hét lên
+Whisper (ˈwɪspə): Thì thầm
+Argue (ˈɑːgjuː): Tranh cãi
+Agree (əˈgriː): Đồng ý
+Disagree (ˌdɪsəˈgriː): Không đồng ý
+Apologize (əˈpɒləʤaɪz): Xin lỗi
+Forgive (fəˈgɪv): Tha thứ
+Thank (θæŋk): Cảm ơn
+Welcome (ˈwɛlkəm): Chào mừng
+Invite (ɪnˈvaɪt): Mời
+Share (ʃeə): Chia sẻ
+Borrow (ˈbɒrəʊ): Mượn
+Lend (lɛnd): Cho mượn
+Promise (ˈprɒmɪs): Hứa
+Warn (wɔːn): Cảnh báo
+Advise (ədˈvaɪz): Khuyên bảo
+Use (juːz): Sử dụng
+Try (traɪ): Thử, cố gắng
+Show (ʃəʊ): Cho thấy, chỉ ra
+Hide (haɪd): Giấu, trốn
+Appear (əˈpɪə): Xuất hiện
+Disappear (ˌdɪsəˈpɪə): Biến mất
+Change (ʧeɪnʤ): Thay đổi
+Keep (kiːp): Giữ lại
+Let (lɛt): Để cho, cho phép
+Make (meɪk): Làm, tạo ra
+Do (duː): Làm, thực hiện
+Have (hæv): Có
+Get (gɛt): Lấy, nhận được
+Become (bɪˈkʌm): Trở nên
+Seem (siːm): Có vẻ như
+Need (niːd): Cần
+Want (wɒnt): Muốn
+Hope (həʊp): Hy vọng
